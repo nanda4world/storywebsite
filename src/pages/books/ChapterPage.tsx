@@ -79,10 +79,22 @@ const ChapterWrapper = styled.div`
   background-size: cover;
   min-height: 100vh;
   padding: 5rem 2rem 2rem;
-  font-family: 'Georgia', serif;
-  color: #3e3e3e;
+  font-family: 'Georgia', 'Times New Roman', Times, serif;
+  color: #1a1a1a;
   display: flex;
   justify-content: center;
+
+  @media (max-width: 768px) {
+    padding: 3rem 1.5rem 1.5rem;
+  }
+
+  @media (max-width: 480px) {
+    padding: 2rem 1rem 1rem;
+  }
+
+  @media (max-width: 320px) {
+    padding: 1.5rem 0.6rem 0.6rem;
+  }
 `;
 
 const ChapterContainer = styled.div`
@@ -91,6 +103,19 @@ const ChapterContainer = styled.div`
   padding: 3rem;
   border-radius: 16px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  width: 100%;
+
+  @media (max-width: 768px) {
+    padding: 2rem;
+  }
+
+  @media (max-width: 480px) {
+    padding: 1.5rem;
+  }
+
+  @media (max-width: 320px) {
+    padding: 1rem;
+  }
 `;
 
 const Title = styled.h1`
@@ -108,7 +133,7 @@ const ChapterNumber = styled.h2`
 `;
 
 const Content = styled.div<{ fontSize: number }>`
-  font-size: ${({ fontSize }) => `clamp(14px, ${fontSize / 16}rem + 0.5vw, ${fontSize}px)`};
+  font-size: ${({ fontSize }) => `clamp(8px, ${fontSize / 16}rem + 0.5vw, ${fontSize}px)`};
   line-height: 1.8;
   text-align: justify;
   hyphens: auto;
@@ -119,13 +144,17 @@ const Content = styled.div<{ fontSize: number }>`
 
   @media (max-width: 480px) {
     line-height: 1.5;
-    letter-spacing: 0.2px;
-    text-align: left; /* optional */
+    letter-spacing: 0.1px;
+    text-align: justify;
+    font-size: 10px;
+  }
+
+  @media (max-width: 320px) {
+    font-size: 10px;
+    letter-spacing: 0.05px;
+    word-spacing: -0.1px;
   }
 `;
-
-
-
 const DropCapParagraph = styled.p`
   &:first-letter {
     float: left;
@@ -135,11 +164,21 @@ const DropCapParagraph = styled.p`
     margin-right: 0.6rem;
     color: #a16b40;
   }
+    
 `;
 
 const Paragraph = styled.p`
-  margin-bottom: 1.2rem;
+  margin-bottom: 0.4rem;
+
+  @media (max-width: 480px) {
+    margin-bottom: 0.3rem;
+  }
+
+  @media (max-width: 320px) {
+    margin-bottom: 0.2rem;
+  }
 `;
+
 
 const BackLink = styled(Link)`
   display: block;
@@ -208,7 +247,18 @@ const ChapterLogo = styled(Link)<{ isScrolled: boolean }>`
     object-fit: cover;
     border-radius: 50%;
   }
+
+  @media (max-width: 480px) {
+    width: ${({ isScrolled }) => (isScrolled ? '38px' : '60px')};
+    height: ${({ isScrolled }) => (isScrolled ? '38px' : '60px')};
+  }
+
+  @media (max-width: 320px) {
+    width: ${({ isScrolled }) => (isScrolled ? '32px' : '50px')};
+    height: ${({ isScrolled }) => (isScrolled ? '32px' : '50px')};
+  }
 `;
+
 
 const ProgressBar = styled.div<{ progress: number }>`
   position: fixed;
@@ -248,7 +298,7 @@ export default function ChapterPage() {
   const chapterNum = Number(chapterNumber);
   const [isScrolled, setIsScrolled] = useState(false);
   const [progress, setProgress] = useState(0);
-  const [fontSize, setFontSize] = useState(19); // default font size
+  const [fontSize, setFontSize] = useState(19);
 
   const contentRef = useRef<HTMLDivElement>(null);
 
@@ -259,10 +309,7 @@ export default function ChapterPage() {
 
     const handleScroll = () => {
       setIsScrolled(window.scrollY > 20);
-
       if (contentRef.current) {
-       setProgress(Math.min(100, Math.max(0, (window.scrollY / (document.body.scrollHeight - window.innerHeight)) * 100)));
-
         const scrollTop = window.scrollY;
         const docHeight = document.body.scrollHeight - window.innerHeight;
         const scrolled = (scrollTop / docHeight) * 100;
@@ -272,7 +319,6 @@ export default function ChapterPage() {
 
     window.addEventListener('scroll', handleScroll);
     handleScroll();
-
     return () => window.removeEventListener('scroll', handleScroll);
   }, [slug, chapterNumber]);
 

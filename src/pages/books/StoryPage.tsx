@@ -139,7 +139,7 @@ const ChapterCard = styled(RouterLink)`
 
 export default function StoryPage() {
   const { slug } = useParams();
-  const [book, setBook] = useState(dummyBookDetails);
+  const [book] = useState(dummyBookDetails);
   const [isScrolled, setIsScrolled] = useState(false);
 
   useEffect(() => {

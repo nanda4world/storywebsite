@@ -12,7 +12,8 @@ const dummyBookDetails = {
   image: '/images/book-thumbnails/the-dream.png',
   chapters: Array.from({ length: 10 }, (_, i) => ({
     number: i + 1,
-    title: ['The Awakening', 'Into the Fog', 'The Unseen Door', 'Reflections', 'Revelation'][i % 5],
+    title: ['The Awakening', 'The man outside', 'The Discharge', 'Familiar Stranger', 'Revelation'][i % 5],
+   
     image: `/images/chapters/chapter${(i % 5) + 1}.jpg`,
   })),
 };
@@ -154,10 +155,11 @@ export default function StoryPage() {
         <img src={book.image} alt={book.title} />
       </LogoContainer>
 
-      <BackLink to="/books">← Back to Stories</BackLink>
-
+      
+<BackLink to="/">← Back to Stories</BackLink>
       <PageWrapper>
         <Overlay>
+      
           <Title>{book.title}</Title>
           <Subtitle>{book.tagline}</Subtitle>
 

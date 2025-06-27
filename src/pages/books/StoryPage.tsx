@@ -10,7 +10,7 @@ const dummyBookDetails = {
   title: 'The Dream',
   tagline: 'Enter a surreal world where reality bends.',
   image: '/images/book-thumbnails/the-dream.png',
-  chapters: Array.from({ length: 10 }, (_, i) => ({
+  chapters: Array.from({ length: 5 }, (_, i) => ({
     number: i + 1,
     title: ['The Awakening', 'The man outside', 'The Discharge', 'Familiar Stranger', 'Revelation'][i % 5],
    

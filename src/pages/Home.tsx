@@ -32,34 +32,7 @@ const books = [
     slug: 'celestial-code',
     comingSoon: true,
   },
-    {
-    title: 'The Dream',
-    tagline: 'Enter a surreal world where reality bends.',
-    image: '/images/book-thumbnails/the-dream.png',
-    slug: 'the-dream-copy1',
-    genre: 'Sci-Fi',
-  },
-  {
-    title: 'Skybound',
-    tagline: 'Touch the edge of worlds unknown.',
-    image: '/images/book-thumbnails/eclipse-runner.jpg',
-    slug: 'skybound-copy1',
-    comingSoon: true,
-  },
-  {
-    title: 'Celestial Code',
-    tagline: 'Decipher the language of stars.',
-    image: '/images/book-thumbnails/dreamy-sci-fi.jpg',
-    slug: 'celestial-code-copy1',
-    comingSoon: true,
-  },
-  {
-    title: 'Whispers of the Void',
-    tagline: 'A tale of echoes in darkness.',
-    image: '/images/book-thumbnails/forgotten-key.jpg',
-    slug: 'void-copy1',
-    comingSoon: true,
-  },
+    
 ];
 
 

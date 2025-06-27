@@ -451,6 +451,412 @@ Just the hollow chill of someone realizing:
 Is he doing all this because he is planning anything ? or is that how he always behaved…..
 So, now he plans to go back to work………
 `},
+5:{title:'Revelation',
+    content:`The office building hadn’t changed. The same cracked tile near the elevator. The same overused coffee machine hissing steam in the hallway. But to Nanda, it all felt… staged. Like a set someone had reassembled just enough to fool him into thinking life was normal.
+He walked past the reception. A few employees looked up — then immediately looked away. Except one.
+ “Hey, look who’s back,” a guy from analytics muttered, nudging his colleague.
+ Whispers trailed behind him like smoke.
+ “Did you hear? They say he completely lost it.”
+ “Wasn’t he found lying on the road or something?”
+ “I heard he screamed in his sleep… in the hospital.”
+ “Ever since that girl left—”
+ “He’s gone bonkers.”
+ A muffled laugh. A fake cough to cover it. Someone cleared their throat a little too loudly.
+Nanda kept walking. Head straight. Eyes fixed ahead.
+ The old him would’ve snapped — maybe hurled a chair, maybe worse. But today… rage didn’t find a way out.
+ It just swirled inside him. Waiting.
+ Because he was scared.
+ Because what happened this morning at the gym — what he remembered — could happen again here.
+ And if it did, it might not just end in whispers.
+ It could end with him being fired.
+So instead… He observed.
+He sat at his desk. Stared blankly at the monitor.
+ The dream played on loop.
+ The corridor. The flickering light.
+ The child sobbing.
+ The voice: “You shouldn’t have come here.”
+ And then — the cold jab of a syringe.
+ Panda’s face.
+ His skin crawled just thinking about it.
+ Was it a buried memory?
+ A hallucination?
+ Or both?
+Ping.
+ A message blinked on his office chat:
+ “Please report to Mr. Raghavan’s office.”
+He stood up and headed toward the glass cabin.
+“Come on in, Nanda,” Raghavan said without looking up. “How’s your health?”
+ Before Nanda could answer —
+ “Don’t bother. You’re upright, not drooling — good enough for me.”
+ A hollow laugh. Solo.
+Raghavan leaned back slightly, adjusting his collar.
+ “Look — we’re not going to throw you back into the deep end right away. No pressure.”
+ A pause. Calculated.
+ “You’re being moved to a different team. Support role. Easier pace.”
+Nanda frowned. “Different team?”
+“Still the same project. Same compound. You’re just not leading anymore,” Raghavan said, glancing at his monitor. “Think of it as… collaborative redemption.”
+ He smirked, then added,
+ “You’ve always had a knack for sorting messes out, right?”
+ A beat.
+ A muffled laugh — like he found his own words funnier than they were.
+ “Except, well… some messes.”
+Nanda’s jaw tightened, but he said nothing.
+Raghavan continued, almost too casually, “Anyway. The neuro-stabilizing drug work — you remember it, I hope?”
+“I do,” Nanda said, voice low.
+“Great. Then figure it out quickly from where you are. The client wants numbers, and we can’t afford delays.” He waved a hand dismissively.
+ “You’re still in the building, Nanda. Just… not at the head of the table anymore.”
+Dismissed.
+ He walked back to his desk, unsettled.
+ That phrase again: “Among other things.”
+He opened the system, but now with new eyes.
+ Folders marked “external testing.”
+ Access denied.
+ Why? He used to have access.
+ What had they taken away?
+Then the elevator dinged.
+ And through the glass doors — Panda.
+ Not inside. Just… standing near the canteen. Talking to someone.
+ A stranger. Dull green jacket.
+Nanda froze.
+ That jacket.
+ The same one that was draped over Raghavan’s chair this morning.
+Animated talking. An envelope passed.
+ And then — gone.
+Something didn’t just feel wrong.
+ It felt designed.
+He opened the debug terminal — an old bypass tool he wrote himself.
+ Accessed deeper logs.
+Project: PND-A
+ Supervisor: REDACTED
+ Access Level: Internal Clinical Wing Only
+PND-A.
+ Panda.
+ No coincidence. No chance.
+ He stared, breath shallow.
+ Was Panda running a project… named after himself?
+ And was Nanda a part of it?
+His thoughts spun.
+ His pulse spiked.
+And then — his phone rang.
+ Unknown number.
+He picked it up.
+ “Hello, this is Inspector Vijay,” the voice said. “We met this morning?”
+ “Yes,” Nanda said quickly.
+ “You filed a report about the hit-and-run incident, correct? We pulled up CCTV logs from the mart nearby.”
+ A pause.
+ “But footage for that day is… missing.”
+“What?” Nanda stood up, chair scraping behind him.
+ “Footage from the entire week has been erased. It doesn’t look like a malfunction.”
+Nanda’s stomach dropped.
+ He already knew.
+ Someone was covering tracks.
+ “I want to meet you,” he said sharply. “Right now. Let’s go to that mart together.”
+Outside the Mart
+ Nanda and the inspector stood facing the store manager — a pale, sweaty man already halfway into denial.
+ “I’m telling you — we don’t keep footage more than 24 hours,” the manager lied.
+ “That’s not what your policy says,” Vijay replied coldly. “I’ve already spoken to your corporate.”
+The man stammered.
+ Nanda snapped.
+ “WHO paid you to delete it?”
+ His voice cracked. “WHO?”
+ “Sir… please…”
+ But Nanda was done being calm.
+ He shoved a display stand over. Boxes fell like dominoes.
+ The sound ricocheted through the aisles.
+ Customers turned. Staff froze.
+ Then — finally — the manager whispered:
+ “Someone… a corporate guy. Suit. Offered a huge amount. He said he wanted specific days deleted. Had a pen drive and everything. I didn’t ask more.”
+“You didn’t ask more?” Nanda shouted.
+ But before he could say more — the inspector stepped between them.
+ “We’ll recover the backups,” he said. “Don’t worry.”
+INT. POLICE LAB – LATE EVENING
+ The room was dim. A few low desk-lamps glowed over keyboards and hard drives. Fans whirred softly. A single ceiling tube flickered every few seconds, like it too was nervous.
+The officer tapped a few keys.
+ “Here,” he said. “This is from the backup we retrieved. Same street. Timestamp — 4:03 AM.”
+ Nanda stepped closer to the screen, heart pulsing behind his eyes.
+The footage began.
+EXT. STREET CORNER – CCTV FOOTAGE – NIGHT MODE
+ It was silent. Just the empty road, blurred under a faint drizzle.
+ Nanda walked into the frame.
+ Gym bag slung across his shoulder. White shoes. Earbuds in. Head low, face unreadable.
+ The street slept. No traffic. No sound. Nothing moved — until something did.
+A jeep roared in from the left side — not speeding, not honking, just emerging from the fog like something summoned.
+ And then, in a blink — WHAM.
+ A massive rod, iron-forged, whipped out from the side of the jeep — and slammed into Nanda’s ribs, like the vehicle itself had grown an arm.
+Nanda’s body twisted mid-air, limbs flailing before collapsing violently to the ground.
+ The jeep halted. Still. Quiet.
+ The canvas flap at the back lifted.
+ A man jumped down.
+ Boots hit gravel. Heavy. Measured.
+He remembers that sound — the steady rhythm, like a war drum in the rain.
+ A black hoodie, soaked around the edges.
+ The man stepped out — tall, broad-shouldered, built like concrete.
+ Nanda’s breath caught. He is recalling the whole scenario…
+The police operator leans in.
+ “Who the hell is that guy…” the officer mutters.
+ The man on screen — still hooded — stood beside the jeep, calm, unshaken.
+ Nanda now is able to visualize totally what happened that day… He could hear the car tyre screeching.
+A spark flickered.
+ A cigarette lit.
+ The flame flared to life.
+ And that cigarette — the tip burned crimson, unnaturally bright, like a red sun breaking through storm clouds.
+ Smoke curled upward, thick and white.
+ Not just smoke — clouds. Morning mist.
+He didn’t check the body.
+ Didn’t rush.
+ He just stood there, smoking, like someone examining himself from the outside.
+Footsteps entered the frame.
+ Two older men from the alley — a coat and a grocery bag between them — rushing toward the fallen figure.
+ The hooded man turned slightly.
+ And at that precise moment — a gentle breeze.
+ The hood slipped off.
+ Nanda’s pupils widened.
+The smoke parted — both on the monitor and in his mind.
+ The face came into view.
+ The nose. The angular jaw. That faint scar just above the left eyebrow.
+ His own face.
+Captured on camera.
+ And remembered from inside.
+ Not similar.
+ Not a lookalike.
+ Him.
+Standing.
+ Alive.
+ Looking at his own unconscious body.
+How…?
+The officer’s hand dropped from the mouse. He looked up slowly, voice barely above a whisper:
+ “Sir… that’s… you?”
+NANDA – STAGGERED
+ His throat tightened. The edges of the world blurred — but not with fear. With recognition.
+ Something inside him unlatched — like a vault cracking open.
+His voice came out hoarse.
+ “It’s not a glitch. I remember that smoke. The sound… The… heaviness.”
+The man in the video threw his hoodie back on, turned sharply, and ran — leapt back into the jeep’s deck, pounding twice on the roof.
+ The vehicle accelerated and vanished into the fog.
+NANDA (softly)
+ “That wasn’t just footage. That was real. How’s that even possible????”
+
+
+The screen had flickered.
+The footage had stopped.
+But the silence that followed?
+ It kept growing. Breathing. Watching.
+A low hum in the lab. A sterile glow from the monitor. Vijay turned toward him, about to speak—
+But Nanda’s phone buzzed.
+Once.
+ Then again.
+ And again.
+He didn’t reach for it. Not immediately.
+His eyes were still locked on the screen — not because of what he saw, but what he felt.
+ That face. That man in the frame.
+ The same features. The same walk.
+ Him.
+ And yet—not him.
+Another buzz. This time, a call.
+Reluctantly, as if waking from some underwater dream, Nanda took the phone. His thumb hovered. He answered.
+It was his mother.
+Her voice was slow today. Soft. And heavy — like it had been walking for years and just sat down.
+“I’m not able to run to school like before, Nanda… My knees ache. My arms too. Even standing for ten minutes feels like a punishment now…”
+A honk exploded from the street outside — a bus tearing past the station.
+ Her voice disappeared under it. As if the world itself didn’t care what a mother had to say.
+When the sound faded, she was still speaking — but faint, like a dream dissolving mid-sentence.
+He ended the call before she could say more.
+ Because he already knew.
+ And somehow, hearing more would only make it worse.
+He looked down at the phone screen.
+There, glowing among the app icons, was a message notification.
+ From his father.
+Nanda. I lost my job.
+ The thunder came right on cue.
+ A low, growling rumble that didn’t feel like weather, but judgment.
+But I’ve already started looking again. Don’t worry. I have savings. I can manage for about a month.
+ But after that… I’m not sure. I just thought I should tell you… so you don’t plan any expenses.
+That last line blurred.
+Because Nanda’s eyes had filled.
+ Quietly. Instinctively.
+ Tears gathering like clouds before anyone notices a storm.
+And just then—his memory stung him.
+That message from the morning.
+“Reminder: EMI due. Your account balance is insufficient. Penalty charges will apply.”
+The words had stung at dawn. Now, they tore deeper.
+The money — the savings he’d once had — had flown out months ago.
+ Piece by piece.
+ Lab bills. Clinic visits. Medicine. Diagnostics.
+ Each swipe of the card another handful of sand tossed into the wind.
+It wasn’t just his father’s job slipping away.
+ It was his past, his present, and even the fragile rope of future he’d been hanging onto — all fraying at once.
+Outside, the storm rumbled again. But inside the police lab, it had already begun.
+The windows trembled.
+And from the officer’s desk, loose files lifted.
+ Sheets fluttered into the air — reports, Xeroxed forms, fingerprints, statements — all twirling upward like a flock of startled birds.
+Receipts. Documents. Names. Numbers.
+ All dancing with the wind — the very image of Nanda’s scattered life.
+Papers spun through the room like forgotten currency — weightless, meaningless.
+Just like the money he no longer had.
+His thumb hovered again — this time, to close the message. But before he could, another notification popped.
+Instagram.
+Tagged in a story.
+He opened it, almost like reflex.
+There she was.
+Her.
+Laughing in a party dress under string lights. A drink in hand. Surrounded by friends.
+The text on the screen?
+“Never seen anyone as immature and emotional as him. Honestly, what a fool 😂💀”
+His name tagged — right there in front of everyone.
+Another thunder cracked.
+ This time, sharp.
+ Like a whip tearing the sky in half.
+A tear slid off his chin — landed on the phone screen.
+The next story started auto-playing.
+ Her birthday party. Smiling faces. Laughter frozen in time.
+But he couldn’t see it clearly.
+The screen was wet now.
+ Smudged with rain. Or tears. Or both.
+He tried wiping it.
+ It slipped from his hand.
+ Clattered on the floor.
+He didn’t pick it up.
+Because something had broken.
+ Not just the screen. But something inside him. Something older.
+The glass door to the lab began to pepper with raindrops.
+ Soft at first. Then harder.
+ Then furious.
+He stood.
+Didn’t speak.
+Just walked — straight through the door, into the storm.
+“Nanda! Wait!” Vijay called after him.
+ But the wind swallowed the voice before it could reach Nanda’s ears.
+Outside, the world had turned feral.
+Dust swirled in frantic spirals, as if the earth itself was unraveling.
+ A fine layer of sand stung Officer Vijay’s eyes, forcing him to squint, his vision blurred.
+ He tried to follow Nanda’s silhouette — but the storm had already begun erasing it.
+The drizzle had started too — not gentle, not forgiving — but sharp.
+ Each drop hit like a tiny stone against the ground, the glass, the skin.
+ Like pain had learned how to fall from the sky.
+And Nanda… he kept walking.
+Shoulders sunken. Head bowed.
+ Tears leaking quietly from the corners of his eyes — and yet, the wind was so merciless, it flung them back across his own face.
+ As if the sky didn’t want to waste a single tear — as if the world wanted him to taste his sorrow twice.
+His body moved, but his mind wasn’t with him.
+ His legs walked, but his soul… was somewhere else.
+He wasn’t ignoring Vijay.
+ He just couldn’t hear him anymore — not through the thunder in his chest and the storm in his head.
+And so, Officer Vijay… gave up.
+He lowered the hand he’d reached out.
+ Blinking through the dust and sand. Watching Nanda disappear into the storm.
+ Like a man stepping out of one reality — and into something far more unforgiving.
+Thick sheets of rain lashed the street like punishment.
+ Covers were torn from parked bikes. Papers danced like ghosts.
+ Plastic bags flapped against signboards like they were begging to be let in.
+ Car horns. Bike horns. Buses screeching.
+Chaos. All of it.
+ But Nanda — he walked like none of it mattered.
+He wasn’t angry. He wasn’t thinking.
+ He was just moving — like a puppet whose strings were pulled by memory.
+Past the gutters overflowing with city sludge.
+ Past the tea stalls trying to hold onto their tarps.
+ Past the hunched silhouettes of people running for shelter, as if the rain was chasing them.
+And then — the tracks.
+Steel, slick with stormwater.
+ A train was slowing down — its wheels grinding against the rails, screeching low like an animal in pain.
+ The engine let out a honk. Long. Hollow. As if it were calling out to him. Like it somehow knew.
+Wind tore across the platform and through the fencing, kicking up loose sheets and plastic wrappers that danced around Nanda’s legs.
+ The debris whirled off the track, pulled by the wind that followed the train.
+ It wasn’t just litter — it was memory in motion. Forgotten things returning.
+Inside the train, through the open doors, a boy sat near the edge — tiny, brittle, crying into the hollow space of his hunger.
+ Behind him, an old couple stared out a cracked window. Not at the boy. Not at Nanda.
+ Just up. At the bruised sky.
+ Their eyes weren’t desperate. Just… waiting. Like they were asking heaven for one last miracle.
+But the train moved on.
+ And so did Nanda.
+The noise dulled now — like the storm around him had sunk beneath the louder storm inside.
+His mother’s soft voice returned.
+“I’m not able to run to school like before, Nanda… my knees are aching… I’m unable to stand for long…”
+ That fading voice — lost beneath the horn of a passing bus — like even her pain didn’t get space in the world’s noise.
+His father’s quiet shame echoed too.
+“I lost my job… but I’ve started looking again… don’t plan any expenses for now…”
+ And underneath those words — that same helplessness.
+As Nanda veered left from the road, the lake revealed itself.
+ The place that once felt like calm.
+The place he’d laughed beside someone he once trusted with his whole, foolish heart.
+The rain had softened the earth, but his knees hit hard as he fell.
+ Right there — like gravity had given up pretending he could stand.
+Memories hit like flickering film.
+A smile.
+ A laugh in sunlight.
+ Her fingers brushing his.
+ Moments by the lake. Shared secrets. Stolen silences.
+Then the flicker — sharp.
+Her Instagram story.
+ Her voice tagged to a song he once shared with her.
+ “Nanda is such an emotional idiot.”
+ “Never met someone so immature in my life.”
+He didn’t even swipe.
+ His tear landed on the screen — the story moved on without him.
+ A birthday party. Her smile. Surrounded by everyone.
+ Everyone but him.
+The betrayal etched into pixels.
+Another flicker — his gym.
+ The clink of weights.
+ The cheers the day he won gold.
+ The scent of iron and sweat and belief.
+Then — his gym trainer’s voice: “You should probably stop coming, Nanda. It’s… uncomfortable for others to see you like this.”
+Flicker.
+The manager’s words.
+ “You’re off the project. Take time off. Maybe rethink your direction.”
+Flicker.
+Panda.
+ That one friend. That one lifeline.
+ Laughter, drives, coffee on footpaths.
+ Late-night confessions. Inside jokes. That look of trust.
+And then —
+ The man in the footage.
+His own face — on someone else.
+ His own voice — without his mouth moving.
+ His own life — fractured, mirrored, mangled.
+Everything played in loops inside him.
+And then —
+He screamed.
+Not a word.
+ Not a sentence.
+ Not even a name.
+Just pain — torn from the body like it had been hiding in his spine for years.
+ Like it had finally clawed its way out.
+And the sky screamed with him.
+The loudest thunder yet — a guttural rip across the sky, like even the gods had lost control.
+His fists pounded the earth.
+ Stones tore into his palms, but he didn’t care.
+ Blood trickled down — quickly swallowed by mud and rainwater, washed away before it could be remembered.
+The drops were merciless now.
+Big. Cruel.
+ Not falling — attacking.
+ As if the sky had shattered.
+ As if grief had become weather.
+The lake rippled, churning under the force.
+ Each drop cutting the surface like needles.
+ Piercing. Stinging.
+Plastic bags skated across the water like lost currency.
+ Scraps. Receipts.
+ Useless things that once held value.
+ Now? Just ghosts of a life that couldn’t hold together.
+He collapsed.
+ Face-first into the soil.
+ Breath caught in his chest like it wasn’t sure if it wanted to stay.
+Hands limp.
+ Mouth open.
+ Eyes wide — staring at nothing.
+And still — the rain.
+Still — the thunder.
+Still — the world collapsing, without pause, without care.
+And for the first time in what felt like a lifetime…
+Nanda cried.
+Not quietly.
+ Not politely.
+ But like a child who had held back too long.
+ Aloud. Wild. With no shame. No shape.
+With the kind of ache that only the sky could understand.
+`
+},
 };
 
 // ---------- Styled Components ----------

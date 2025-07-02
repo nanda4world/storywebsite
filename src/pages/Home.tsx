@@ -24,13 +24,13 @@ const TitleRow = styled.div`
 
 const LogoContainer = styled.div.withConfig({
   shouldForwardProp: (prop) => prop !== 'isshrunk',
-})<{ isshrunk: boolean }>`
+})<{ $isshrunk: boolean }>`
   position: fixed;
   top: 3rem;
   left: 1rem;
   z-index: 999;
-  width: ${props => (props.isshrunk ? '55px' : '100px')};
-  height: ${props => (props.isshrunk ? '55px' : '100px')};
+  width: ${props => (props.$isshrunk ? '55px' : '100px')};
+  height: ${props => (props.$isshrunk ? '55px' : '100px')};
   border-radius: 50%;
   background-color: rgba(255, 255, 255, 0.05);
   box-shadow: 0 0 20px rgba(143, 3, 3, 0.41);
@@ -55,13 +55,13 @@ const LogoContainer = styled.div.withConfig({
   @media (max-width: 768px) {
     top: 0.5rem;
     left: 0.5rem;
-    width: ${props => (props.isshrunk ? '50px' : '75px')};
-    height: ${props => (props.isshrunk ? '50px' : '75px')};
+    width: ${props => (props.$isshrunk ? '50px' : '75px')};
+    height: ${props => (props.$isshrunk ? '50px' : '75px')};
   }
 
   @media (max-width: 480px) {
-    width: ${props => (props.isshrunk ? '45px' : '65px')};
-    height: ${props => (props.isshrunk ? '45px' : '65px')};
+    width: ${props => (props.$isshrunk ? '45px' : '65px')};
+    height: ${props => (props.$isshrunk ? '45px' : '65px')};
     top: 0.5rem;
     left: 0.5rem;
   }
@@ -109,7 +109,7 @@ const GridContainer = styled.div`
 `;
 
 export default function Home() {
-  const [isshrunk, setIsShrunk] = useState(false);
+  const [$isshrunk, setIsShrunk] = useState(false);
   const [stories, setStories] = useState<Story[]>([]);
 
   useEffect(() => {
@@ -134,7 +134,7 @@ export default function Home() {
 
   return (
     <>
-      <LogoContainer isshrunk={isshrunk}>
+      <LogoContainer $isshrunk={$isshrunk}>
         <a href="/">
           <img src="/images/cartoon.png" alt="Site Logo" />
         </a>
@@ -143,7 +143,7 @@ export default function Home() {
       <PageWrapper>
         <Overlay>
           <TitleRow>
-            <Title style={{ fontSize: isshrunk ? '2rem' : '3rem' }}>
+            <Title style={{ fontSize: $isshrunk ? '2rem' : '3rem' }}>
               Welcome to Nanda’s Story World
             </Title>
           </TitleRow>

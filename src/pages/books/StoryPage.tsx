@@ -1,22 +1,25 @@
-// src/pages/books/StoryPage.tsx
-
 import { useParams } from 'react-router-dom';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
 import { useEffect, useState } from 'react';
 import { Link as RouterLink } from 'react-router-dom';
+import axios from 'axios';
 
-const dummyBookDetails = {
-  title: 'The Dream',
-  tagline: 'Enter a surreal world where reality bends.',
-  image: '/images/book-thumbnails/the-dream.png',
-  chapters: Array.from({ length: 5 }, (_, i) => ({
-    number: i + 1,
-    title: ['The Awakening', 'The man outside', 'The Discharge', 'Familiar Stranger', 'Revelation'][i % 5],
-   
-    image: `/images/chapters/chapter${(i % 5) + 1}.jpg`,
-  })),
-};
+interface Chapter {
+  number: number;
+  title: string;
+  image: string;
+}
+
+interface Story {
+  title: string;
+  tagline: string;
+  image: string;
+  slug: string;
+  genre: string;
+  comingSoon: boolean;
+  chapters: Chapter[];
+}
 
 const PageWrapper = styled.div`
   min-height: 100vh;
@@ -33,13 +36,13 @@ const Overlay = styled.div`
   min-height: 100vh;
 `;
 
-const LogoContainer = styled(RouterLink)<{ isScrolled: boolean }>`
+const LogoContainer = styled(RouterLink)<{ $isScrolled: boolean }>`
   position: fixed;
   top: 3rem;
   left: 1rem;
   z-index: 999;
-  width: ${({ isScrolled }) => (isScrolled ? '50px' : '80px')};
-  height: ${({ isScrolled }) => (isScrolled ? '50px' : '80px')};
+  width: ${({ $isScrolled }) => ($isScrolled ? '50px' : '80px')};
+  height: ${({ $isScrolled }) => ($isScrolled ? '50px' : '80px')};
   border-radius: 50%;
   background-color: rgba(255, 255, 255, 0.1);
   box-shadow: 0 0 18px rgba(99, 32, 32, 0.67);
@@ -59,18 +62,6 @@ const LogoContainer = styled(RouterLink)<{ isScrolled: boolean }>`
     height: 100%;
     object-fit: cover;
     border-radius: 50%;
-  }
-
-  @media (max-width: 768px) {
-    width: ${({ isScrolled }) => (isScrolled ? '40px' : '60px')};
-    height: ${({ isScrolled }) => (isScrolled ? '40px' : '60px')};
-  }
-
-  @media (max-width: 480px) {
-    top: 1rem;
-    left: 0.7rem;
-    width: ${({ isScrolled }) => (isScrolled ? '36px' : '52px')};
-    height: ${({ isScrolled }) => (isScrolled ? '36px' : '52px')};
   }
 `;
 
@@ -139,9 +130,18 @@ const ChapterCard = styled(RouterLink)`
 `;
 
 export default function StoryPage() {
-  const { slug } = useParams();
-  const [book] = useState(dummyBookDetails);
+  const { slug } = useParams<{ slug: string }>();
+  const [book, setBook] = useState<Story | null>(null);
   const [isScrolled, setIsScrolled] = useState(false);
+
+  useEffect(() => {
+    if (!slug) return;
+    console.log('slug:',slug);
+    axios
+      .get<Story>(`http://localhost:5000/api/stories/${slug}`)
+      .then((res) => setBook(res.data))
+      .catch((err) => console.error('Error fetching story:', err));
+  }, [slug]);
 
   useEffect(() => {
     const onScroll = () => setIsScrolled(window.scrollY > 20);
@@ -149,46 +149,54 @@ export default function StoryPage() {
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
+  if (!book) {
+    return <p style={{ color: 'white', padding: '2rem' }}>Loading...</p>;
+  }
+
   return (
     <>
-      <LogoContainer to="/" isScrolled={isScrolled}>
+      <LogoContainer to="/" $isScrolled={isScrolled}>
         <img src={book.image} alt={book.title} />
       </LogoContainer>
 
-      
-<BackLink to="/">← Back to Stories</BackLink>
+      <BackLink to="/">← Back to Stories</BackLink>
       <PageWrapper>
         <Overlay>
-      
           <Title>{book.title}</Title>
           <Subtitle>{book.tagline}</Subtitle>
 
-          <GridContainer>
-            {book.chapters.map((chapter, index) => (
-              <motion.div
-                key={chapter.number}
-                initial={{ opacity: 0, y: 30 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: index * 0.1, duration: 0.5 }}
-              >
-                <ChapterCard to={`/books/${slug}/chapter/${chapter.number}`}>
-                  <img
-                    src={chapter.image}
-                    alt={`Chapter ${chapter.number} cover`}
-                    style={{
-                      width: '100%',
-                      height: '160px',
-                      objectFit: 'cover',
-                      borderRadius: '8px',
-                      marginBottom: '1rem',
-                    }}
-                  />
-                  <h3>Chapter {chapter.number}</h3>
-                  <p>{chapter.title}</p>
-                </ChapterCard>
-              </motion.div>
-            ))}
-          </GridContainer>
+          {book.chapters.length === 0 ? (
+            <p style={{ color: '#ccc', textAlign: 'center', fontSize: '1.1rem' }}>
+              No chapters available for this story yet.
+            </p>
+          ) : (
+            <GridContainer>
+              {book.chapters.map((chapter, index) => (
+                <motion.div
+                  key={chapter.number}
+                  initial={{ opacity: 0, y: 30 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ delay: index * 0.1, duration: 0.5 }}
+                >
+                  <ChapterCard to={`/books/${slug}/chapter/${chapter.number}`}>
+                    <img
+                      src={chapter.image || '/default-chapter.jpg'}
+                      alt={`Chapter ${chapter.number} cover`}
+                      style={{
+                        width: '100%',
+                        height: '160px',
+                        objectFit: 'cover',
+                        borderRadius: '8px',
+                        marginBottom: '1rem',
+                      }}
+                    />
+                    <h3>Chapter {chapter.number}</h3>
+                    <p>{chapter.title}</p>
+                  </ChapterCard>
+                </motion.div>
+              ))}
+            </GridContainer>
+          )}
         </Overlay>
       </PageWrapper>
     </>

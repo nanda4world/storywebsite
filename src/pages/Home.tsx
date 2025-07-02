@@ -122,7 +122,7 @@ export default function Home() {
 
   useEffect(() => {
     axios
-  .get<Story[]>('http://localhost:5000/api/stories')
+  .get<Story[]>('https://storywebsite-1.onrender.com/api/stories')
 
       .then((res) => {
         setStories(res.data);

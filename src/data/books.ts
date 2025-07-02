@@ -1,7 +1,6 @@
 // src/data/books.ts
 
-import { number } from "framer-motion";
-import { image } from "framer-motion/client";
+
 
 export const books = {
   'the-dream': {

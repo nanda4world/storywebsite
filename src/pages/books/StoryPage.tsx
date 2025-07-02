@@ -138,7 +138,7 @@ export default function StoryPage() {
     if (!slug) return;
     console.log('slug:',slug);
     axios
-      .get<Story>(`http://localhost:5000/api/stories/${slug}`)
+      .get<Story>(`https://storywebsite-1.onrender.com/api/stories/${slug}`)
       .then((res) => setBook(res.data))
       .catch((err) => console.error('Error fetching story:', err));
   }, [slug]);

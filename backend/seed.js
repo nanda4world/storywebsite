@@ -20,28 +20,47 @@ const sampleStory = [{
       title: "The Awakening",
       image: "/images/chapters/chapter1.jpg",
       content: `
-        "But I have promises to keep
-        And miles to go before I sleep.”
-        A chilling voice echoes from the shadows — too calm, too rehearsed. Too calm.
-      The sound of an iron rod being dragged up a stairwell slices through the silence like a scream with its throat cut. In the corner of a pitch-dark room, a child whimpers. The air feels tight, humid — as though the building itself is holding its breath.
-But no visual is perfect. Everything flickers.
-The footsteps get closer. The voice gets clearer.
-“Aaaand mmmiiillleessss toooo ggoooo befffooorreee YOOOUUU sslllllleeeeep…”
+       "But I have promises to keep
+And miles to go before I sleep."
+The line drifted out of the shadows—measured, unsettlingly calm, as though it had been spoken so many times it had lost all meaning. It echoed through the stillness like a frayed lullaby, repeated only to be remembered.
+The room it floated through didn’t belong to any world that welcomed life. Dim and clinical, it had the air of a long-forgotten wing of a hospital—sterile, abandoned, untouched by kindness. A single fluorescent tube blinked overhead, casting stuttering pulses of light that made the cracked green walls seem to ripple like diseased skin. The smell hit next: sharp antiseptic laced with rust and something older—metallic, thick, like blood dried into tile grout. Scattered stainless steel trays littered the floor, one overturned, the surgical tools either missing or slowly rusting in place.
+A metallic screech tore through the air. The iron rod scraped along concrete stairs, each dragging thud a serrated wound in the silence. Somewhere in the darkness, a child whimpered—a sound too small, too broken to be anything but real. The very air pressed in, damp and sentient, as if the building were holding its breath, waiting.
+Footsteps followed—slow, deliberate, growing louder. And with them, the voice—distorted now, coming closer, curling around the words like a snake around prey:
+"Aaaand mmmiiillleessss toooo ggoooo befffooorreee YOOOUUU sslllllleeeeep..."
+Nanda couldn’t move. He wasn’t in control. The world flickered like damaged film—images skipping, stuttering, folding in on themselves. His body wasn’t his own. He was watching, trapped behind someone else’s eyes.
+A man knelt in blood.
+He swayed, broken but not yet fallen. His body bore the evidence of cruelty: bruises bloomed across his ribs, a gash ripped open his left shoulder—deep, raw, exposing sinew like torn bark. A rusted metal shard jutted from his right calf, embedded deep, like it had grown there. His hands, slick with blood, lifted in trembling surrender.
+“Please,” the man rasped, his voice barely a breath. “Please, just let me go…”
+The iron rod stopped dragging.
+A figure loomed behind him—faceless, silent, poised. The room froze. The air thickened.
+And then—
 WHAM.
-The iron rod crashes down.
-Darkness swallows the scene.
+Iron collided with flesh and bone. A wet crunch echoed like thunder. Blood arced through the air.
+The man collapsed—not simply falling, but unraveling. His body crumpled forward, hands smearing red across the tiles. Like a puppet with its strings cut mid-motion.
+And though Nanda had not been touched—
+He felt it.
+The tearing pain in the shoulder. The hot metal in the calf. The weight of blood between his fingers. The sick, inevitable surrender of a body shutting down against its will.
+It wasn’t his pain.
+But it was inside him now.
+The world warped. Bent inward. The silence imploded. A scream bloomed in the void—soundless, eternal.
+Darkness didn’t fall.
+It consumed.
+Not night, but something deeper. Not the comforting dark of midnight, but the erasure of everything. As if reality itself had shut its eyes.. More final.
 From within it, Nanda stirs — breath ragged, chest heaving. A faint tremble courses through his limbs. Sweat pools on his brow, soaking into the pillow. His eyelids flutter violently, eyes darting beneath closed lids as though desperately searching for a way out.
-Inside the dream — no, the nightmare — voices clash. Now he’s ported somewhere else, yet it feels eerily similar. Dark. Flickering lights. But the visuals are clearer than before. Someone is crying, pleading, screaming to be sent away. To go home. The desperation is primal, childlike, maddening.
-And his body — broken. Bruises darken his skin, a deep gash slashes across his left shoulder, blood snakes down from the back of his skull. A rusty piece of metal tears through his right calf. His hands are soaked in red. Yet he moves forward, limping, trembling, refusing to fall.
-Voices screech and whisper from all directions, wrapping around him like a storm.
-A towering clock looms in the center of the chaos.
-Its hands spin faster and faster — time unraveling.
-Then comes the alarm.
-Deafening. Violent.
-BANG!
-A brutal strike. The world collapses.
-Nanda shoots up in bed, gasping for breath. The silence is sharp — unnaturally still, like the room itself has been holding its breath with him.
-He clutches his chest, drenched in sweat. His legs tremble beneath the blanket, quivering like they’ve lived the nightmare in flesh and bone.
+But just before it swallowed him whole—
+The flickering began.
+Then came the silence.
+A vacuum.
+A scream caught on the edge of sound—silent, eternal.
+The silence ruptured again, this time with a strange flickering—light bending, images stuttering like damaged film. The space around him tore at the seams. Walls twisted. The ground beneath his feet disappeared. A sudden high-pitched screech broke through, like metal grinding metal, turning into static and then...
+A clocktower emerged, towering above everything.
+Grotesque in scale, it loomed like a god forgotten by time. Its hour hand spun clockwise—too fast, too aggressive—while the minute hand jerked in reverse. Chimes began to toll from somewhere far away, echoing louder, deeper, more distorted with each passing second. The sky around it fractured like glass, and a scream rose—not from someone else, but from inside him—beginning as a low murmur before shooting into a shriek that pierced the sky.
+The tower’s bells clanged once.
+Twice.
+Then—
+TRRRRRRIIIIINGGG!
+here itself nanda wakes up from the sleep.....
+and then ;
 The digital clock glares: 4:30 AM.
 Its red glow pulses in the dark — cold, watchful, accusing.
 He rubs his eyes — vision blurred from too little sleep. Maybe an hour and a half. Maybe less.

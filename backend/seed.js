@@ -20,77 +20,76 @@ const sampleStory = [{
       title: "The Awakening",
       image: "/images/chapters/chapter1.jpg",
       content: `
-       "But I have promises to keep
+       "But I have promises to keep, 
+       and miles to go before I sleep."
 
-And miles to go before I sleep."
+The line drifts out of the shadows—measured, unsettlingly calm, as though it has been spoken so many times it's lost all meaning. It echoes through the stillness like a frayed lullaby, repeated only to be remembered.
 
-The line drifted out of the shadows—measured, unsettlingly calm, as though it had been spoken so many times it had lost all meaning. It echoed through the stillness like a frayed lullaby, repeated only to be remembered.
+The room it floats through doesn’t belong to any world that welcomes life. Dim and clinical, it has the air of a long-forgotten wing of a hospital—sterile, abandoned, untouched by kindness. A single fluorescent tube blinks overhead, casting stuttering pulses of light that make the cracked green walls ripple like diseased skin. The smell hits next: sharp antiseptic laced with rust and something older—metallic, thick, like blood dried into tile grout. Scattered stainless steel trays litter the floor, one overturned, the surgical tools either missing or slowly rusting in place.
 
-The room it floated through didn’t belong to any world that welcomed life. Dim and clinical, it had the air of a long-forgotten wing of a hospital—sterile, abandoned, untouched by kindness. A single fluorescent tube blinked overhead, casting stuttering pulses of light that made the cracked green walls seem to ripple like diseased skin. The smell hit next: sharp antiseptic laced with rust and something older—metallic, thick, like blood dried into tile grout. Scattered stainless steel trays littered the floor, one overturned, the surgical tools either missing or slowly rusting in place.
+A metallic screech tears through the air. An iron rod scrapes along concrete stairs, each dragging thud a serrated wound in the silence. Somewhere in the darkness, a child whimpers—a sound too small, too broken to be anything but real. The very air presses in, damp and sentient, as if the building is holding its breath, waiting.
 
-A metallic screech tore through the air. The iron rod scraped along concrete stairs, each dragging thud a serrated wound in the silence. Somewhere in the darkness, a child whimpered—a sound too small, too broken to be anything but real. The very air pressed in, damp and sentient, as if the building were holding its breath, waiting.
-
-Footsteps followed—slow, deliberate, growing louder. And with them, the voice—distorted now, coming closer, curling around the words like a snake around prey:
+Footsteps follow—slow, deliberate, growing louder. And with them, the voice—distorted now, coming closer, curling around the words like a snake around prey:
 
 "Aaaand mmmiiillleessss toooo ggoooo befffooorreee YOOOUUU sslllllleeeeep..."
 
-Nanda couldn’t move. He wasn’t in control. The world flickered like damaged film—images skipping, stuttering, folding in on themselves. His body wasn’t his own. He was watching, trapped behind someone else’s eyes.
+Nanda can’t move. He isn’t in control. The world flickers like damaged film—images skipping, stuttering, folding in on themselves. His body isn’t his own. He is watching, trapped behind someone else’s eyes.
 
-A man knelt in blood.
+A man kneels in blood.
 
-He swayed, broken but not yet fallen. His body bore the evidence of cruelty: bruises bloomed across his ribs, a gash ripped open his left shoulder—deep, raw, exposing sinew like torn bark. A rusted metal shard jutted from his right calf, embedded deep, like it had grown there. His hands, slick with blood, lifted in trembling surrender.
+He sways, broken but not yet fallen. His body bears the evidence of cruelty: bruises bloom across his ribs, a gash rips open his left shoulder—deep, raw, exposing sinew like torn bark. A rusted metal shard juts from his right calf, embedded deep, like it has grown there. His hands, slick with blood, lift in trembling surrender.
 
-“Please,” the man rasped, his voice barely a breath. “Please, just let me go…”
+“Please,” the man rasps, his voice barely a breath. “Please, just let me go…”
 
-The iron rod stopped dragging.
+The iron rod stops dragging.
 
-A figure loomed behind him—faceless, silent, poised. The room froze. The air thickened.
+A figure looms behind him—faceless, silent, poised. The room freezes. The air thickens.
 
 And then—
 
 WHAM.
 
-Iron collided with flesh and bone. A wet crunch echoed like thunder. Blood arced through the air.
+Iron collides with flesh and bone. A wet crunch echoes like thunder. Blood arcs through the air.
 
-The man collapsed—not simply falling, but unraveling. His body crumpled forward, hands smearing red across the tiles. Like a puppet with its strings cut mid-motion.
+The man collapses—not simply falling, but unraveling. His body crumples forward, hands smearing red across the tiles. Like a puppet with its strings cut mid-motion.
 
-And though Nanda had not been touched—
+And though Nanda hasn’t been touched—
 
-He felt it.
+He feels it.
 
 The tearing pain in the shoulder. The hot metal in the calf. The weight of blood between his fingers. The sick, inevitable surrender of a body shutting down against its will.
 
-It wasn’t his pain.
+It isn’t his pain.
 
-But it was inside him now.
+But it’s inside him now.
 
-The world warped. Bent inward. The silence imploded. A scream bloomed in the void—soundless, eternal.
+The world warps. Bends inward. The silence implodes. A scream blooms in the void—soundless, eternal.
 
-Darkness didn’t fall.
+Darkness doesn’t fall.
 
-It consumed.
+It consumes.
 
-Not night, but something deeper. Not the comforting dark of midnight, but the erasure of everything. As if reality itself had shut its eyes.. More final.
+Not night, but something deeper. Not the comforting dark of midnight, but the erasure of everything. As if reality itself has shut its eyes. More final.
 
-From within it, Nanda stirs — breath ragged, chest heaving. A faint tremble courses through his limbs. Sweat pools on his brow, soaking into the pillow. His eyelids flutter violently, eyes darting beneath closed lids as though desperately searching for a way out.
+From within it, Nanda stirs—breath ragged, chest heaving. A faint tremble courses through his limbs. Sweat pools on his brow, soaking into the pillow. His eyelids flutter violently, eyes darting beneath closed lids as though desperately searching for a way out.
 
-But just before it swallowed him whole—
+But just before it swallows him whole—
 
-The flickering began.
+The flickering begins.
 
-Then came the silence.
+Then comes the silence.
 
 A vacuum.
 
 A scream caught on the edge of sound—silent, eternal.
 
-The silence ruptured again, this time with a strange flickering—light bending, images stuttering like damaged film. The space around him tore at the seams. Walls twisted. The ground beneath his feet disappeared. A sudden high-pitched screech broke through, like metal grinding metal, turning into static and then...
+The silence ruptures again, this time with a strange flickering—light bending, images stuttering like damaged film. The space around him tears at the seams. Walls twist. The ground beneath his feet disappears. A sudden high-pitched screech breaks through, like metal grinding metal, turning into static and then...
 
-A clocktower emerged, towering above everything.
+A clocktower emerges, towering above everything.
 
-Grotesque in scale, it loomed like a god forgotten by time. Its hour hand spun clockwise—too fast, too aggressive—while the minute hand jerked in reverse. Chimes began to toll from somewhere far away, echoing louder, deeper, more distorted with each passing second. The sky around it fractured like glass, and a scream rose—not from someone else, but from inside him—beginning as a low murmur before shooting into a shriek that pierced the sky.
+Grotesque in scale, it looms like a god forgotten by time. Its hour hand spins clockwise—too fast, too aggressive—while the minute hand jerks in reverse. Chimes begin to toll from somewhere far away, echoing louder, deeper, more distorted with each passing second. The sky around it fractures like glass, and a scream rises—not from someone else, but from inside him—beginning as a low murmur before shooting into a shriek that pierces the sky.
 
-The tower’s bells clanged once.
+The tower’s bells clang once.
 
 Twice.
 
@@ -98,155 +97,181 @@ Then—
 
 TRRRRRRIIIIINGGG!
 
-Nanda jolted awake, chest heaving, sweat soaking through his shirt as his heart pounded against his ribs. The digital clock blinked back at him—4:30 AM—its red numbers pulsing like an accusation in the dark.
+Nanda jolts awake, chest heaving, sweat soaking through his shirt as his heart pounds against his ribs. The digital clock blinks back at him—4:30 AM—its red numbers pulsing like an accusation in the dark.
 
-He rubbed his eyes, still half-blind from sleep. His body ached—not with the softness of a bad dream, but with a soreness that felt alarmingly real, as if something had hit him during the night.
+He rubs his eyes, still half-blind from sleep. His body aches—not with the softness of a bad dream, but with a soreness that feels alarmingly real, as if something has hit him during the night.
 
-He stood up slowly, stretching his arms, trying to shake off the lingering dread. But his muscles resisted, and his skin itched in places he couldn’t name. He wiped sweat from his brow, then from his neck, and finally behind his ears—where it felt like the dream had left behind blood that wasn’t his.
+He stands slowly, stretching his arms, trying to shake off the lingering dread. But his muscles resist, and his skin itches in places he can’t name. He wipes sweat from his brow, then from his neck, and finally behind his ears—where it feels like the dream has left behind blood that isn’t his.
 
-His hands trembled in the low light. They didn’t look like his own.
+His hands tremble in the low light. They don’t look like his own.
 
-He scanned the room—wardrobe, desk, window, the peeling poster of one of his old paintings. The ceiling fan hummed overhead. Everything looked as it should. Familiar. Safe.
+He scans the room—wardrobe, desk, window, the peeling poster of one of his old paintings. The ceiling fan hums overhead. Everything looks as it should. Familiar. Safe.
 
-And yet, something was undeniably off.
+And yet, something is undeniably off.
 
-He couldn’t remember anything from the night before. Not dinner. Not brushing his teeth. Not even getting into bed. It was like someone had blacked out a portion of his life with thick ink.
+He can’t remember anything from the night before. Not dinner. Not brushing his teeth. Not even getting into bed. It’s like someone has blacked out a portion of his life with thick ink.
 
-Only the dream remained—raw, vivid, disturbingly intact.
+Only the dream remains—raw, vivid, disturbingly intact.
 
-He staggered to the sink, washed his face, and leaned heavily against the basin, hoping the cold water would wake him from something he wasn’t sure he’d left behind.
+He staggers to the sink, washes his face, and leans heavily against the basin, hoping the cold water will wake him from something he isn’t sure he’s left behind.
 
-The radio crackled to life—just for a moment—and a voice, low and commanding, cut through the silence:
+The radio crackles to life—just for a moment—and a voice, low and commanding, cuts through the silence:
 
 “It’s only after we’ve lost everything that we’re free to do anything.”
 
-Then, as suddenly as it came, it faded again—leaving only the quiet behind.
+Then, as suddenly as it came, it fades again—leaving only the quiet behind.
 
-He stared at his reflection. Hollow eyes. Dark circles. A version of himself thinned out by something he couldn’t name.
-He laid out his clothes with quiet precision— tracksuit, shoes, the bottle of protein shake nestled carefully into the side pocket of his bag. 
-Each action felt rehearsed, as if following a script left behind by a steadier version of himself. 
-He moved to the table and picked up a banana, peeled it without looking, and scooped a spoonful of honey like he had every morning for months. No appetite. No awareness. 
-Just the quiet rhythm of habit. The radio played something old and familiar—a Telugu melody from decades ago—its notes drifting through the room like wallpaper, unnoticed.
-Outside, the sky was still deciding whether to be day or night. A fine drizzle kissed the ground, and the air felt cooler than it should’ve for summer. 
-The streets were empty, the city still holding its breath. 
-He began jogging. His footsteps echoed faintly off closed shutters and sleeping buildings. His breath settled into rhythm.
+He stares at his reflection. Hollow eyes. Dark circles. A version of himself thinned out by something he can’t name.
 
-But the dream wasn’t done with him.
+He lays out his clothes with quiet precision—tracksuit, shoes, the bottle of protein shake nestled carefully into the side pocket of his bag.
 
-It clung to him like damp fabric—each image replaying in flashes. 
-Each image replays — those screams, the clocktower, the blood. His breath grows heavier.
-Even as his feet moved, his mind stayed behind—trapped in that flickering room, in the rust-stained tiles, in the sound of iron meeting bone. The visuals didn’t fade;
-they lived just beneath the surface, like reflections in a puddle—fragile, but always waiting to ripple back.
-He kept running, the drizzle cool against his skin, the city barely awake. But something shifted—an instinctive jolt through his spine, like the air itself recoiled.
-Before he could turn, before thought could catch up, pain crashed into him—blinding, brutal. The world tilted, ripped from its axis. He was falling, breath gone, vision shuddering.
+Each action feels rehearsed, as if following a script left behind by a steadier version of himself.
+
+He moves to the table and picks up a banana, peels it without looking, and scoops a spoonful of honey like he has every morning for months. No appetite. No awareness.
+
+Just the quiet rhythm of habit. The radio plays something old and familiar—a Telugu melody from decades ago—its notes drifting through the room like wallpaper, unnoticed.
+
+Outside, the sky is still deciding whether to be day or night. A fine drizzle kisses the ground, and the air feels cooler than it should for summer.
+
+The streets are empty, the city still holding its breath.
+
+He begins jogging. His footsteps echo faintly off closed shutters and sleeping buildings. His breath settles into rhythm.
+
+But the dream isn’t done with him.
+
+It clings to him like damp fabric—each image replaying in flashes.
+
+Each image replays—those screams, the clocktower, the blood. His breath grows heavier.
+
+Even as his feet move, his mind stays behind—trapped in that flickering room, in the rust-stained tiles, in the sound of iron meeting bone. The visuals don’t fade;
+
+they live just beneath the surface, like reflections in a puddle—fragile, but always waiting to ripple back.
+
+He keeps running, the drizzle cool against his skin, the city barely awake. But something shifts—an instinctive jolt through his spine, like the air itself recoils.
+
+Before he can turn, before thought can catch up, pain crashes into him—blinding, brutal. The world tilts, ripped from its axis. He is falling, breath gone, vision shuddering.
 
 WHAM!
 
 A sudden blow to the back. Sharp. Disorienting.
-He staggered forward, the world spinning, breath knocked clean from his chest. In the blur, a figure emerged—no scarf, no mask. 
-Just a shaved head, the hair uneven and patchy, as if recently grown back. The rest was shadow—unclear, unreal—perched above him somehow, on a moving jeep or a ledge, watching.
 
-Then Nanda’s body gave in, crumpling beneath him.
+He staggers forward, the world spinning, breath knocked clean from his chest. In the blur, a figure emerges—no scarf, no mask.
 
-Tires screech. Voices echo — elderly, panicked. A group of old men rush toward him, shouting, lifting his broken body.
+Just a shaved head, the hair uneven and patchy, as if recently grown back. The rest is shadow—unclear, unreal—perched above him somehow, on a moving jeep or a ledge, watching.
+
+Then Nanda’s body gives in, crumpling beneath him.
+
+Tires screech. Voices echo—elderly, panicked. A group of old men rush toward him, shouting, lifting his broken body.
 
 Darkness again.
 
-He woke to white light and the slow churn of a ceiling fan that didn’t belong to his room. The air smelled sterile, too clean, and machines 
-hummed beside him, their beeps steady and unfamiliar. A saline drip clicked gently against its stand, marking time in a language he didn’t care to understand.
+He wakes to white light and the slow churn of a ceiling fan that doesn’t belong to his room. The air smells sterile, too clean, and machines hum beside him, their beeps steady and unfamiliar. A saline drip clicks gently against its stand, marking time in a language he doesn’t care to understand.
 
-Every inch of his body protested as he shifted—dull aches in his shoulders, a burning sting down his leg. It wasn’t just pain; it was aftermath. 
-His body felt borrowed, bruised in places he couldn’t name.
+Every inch of his body protests as he shifts—dull aches in his shoulders, a burning sting down his leg. It isn’t just pain; it’s aftermath.
 
-Across from him, Panda dozed in a cheap plastic chair, head bowed, arms folded. Two older figures stood near the door, speaking in low tones that blurred into the background.
+His body feels borrowed, bruised in places he can’t name.
 
-A sound slipped from Nanda’s throat—half groan, half question—and Panda stirred instantly, blinking the sleep from his eyes before rushing over.
+Across from him, Panda dozes in a cheap plastic chair, head bowed, arms folded. Two older figures stand near the door, speaking in low tones that blur into the background.
 
-“Ra! You’re awake!” he said, smiling like it was supposed to help. “Don’t worry. You’re okay now.”
+A sound slips from Nanda’s throat—half groan, half question—and Panda stirs instantly, blinking the sleep from his eyes before rushing over.
 
-Nanda tried to speak, but his throat was dry, the words catching.
-“Relax,” Panda added, more gently. “You’ve been out. The rest did you good.”
+“Ra! You’re awake!” he says, smiling like it’s supposed to help. “Don’t worry. You’re okay now.”
 
-But Nanda didn’t feel rested. He felt emptied. As if something had been pulled from him and replaced with static.
+Nanda tries to speak, but his throat is dry, the words catching.
 
-He leans back and may be due to the medicine....his eyes were shut without his permission and his memory fades in. And just like that, it all rushed back.
+“Relax,” Panda adds, more gently. “You’ve been out. The rest did you good.”
 
-His memories return in waves. The blow. The fall. His shoulder scraping against a rusted electric pole. The sting as a crushed cool drink can slicing his calf. 
-His fingers sliding across the blood pooling at the back of his neck — red-stained hands .  Not imagined. Not exaggerated.
+But Nanda doesn’t feel rested. He feels emptied. As if something has been pulled from him and replaced with static.
+
+He leans back, and maybe it’s the medicine... his eyes shut without his permission and his memory fades in. And just like that, it all rushes back.
+
+His memories return in waves. The blow. The fall. His shoulder scraping against a rusted electric pole. The sting of a crushed cool drink can slicing his calf.
+
+His fingers slide across the blood pooling at the back of his neck—red-stained hands. Not imagined. Not exaggerated.
 
 The dream.
 
 It hadn’t just mirrored reality—it had predicted it.
 
-His breath caught.
-Somewhere nearby, through a haze of half-sleep, voices murmured.
+His breath catches.
 
-“…the electric pole scratched across his lateral deltoid—left side—and that Coke tin pierced clean into the right calf. We’ve started him on antibiotics to prevent infection…”
+Somewhere nearby, through a haze of half-sleep, voices murmur.
 
-Nanda’s eyes fluttered open, lids heavy. Light bled through the blur. A man in a white coat stood near the foot of the bed, talking to Panda, who listened with folded arms and a strange stiffness.
+"...the electric pole scratched across his lateral deltoid—left side—and that Coke tin pierced clean into the right calf. We've started him on antibiotics to prevent infection..."
 
-“…an injection was administered on-site. That should stabilize—”
+Nanda's eyes flutter open, lids heavy. Light bleeds through the blur. A man in a white coat stands near the foot of the bed, talking to Panda, who listens with folded arms and a strange stiffness.
 
-Nanda’s voice rasped out, sudden and hoarse:
-“Exactly. That’s what I’ve been saying… Those bruises. That blood. I saw them—before.”
+"...an injection was administered on-site. That should stabilize—"
 
-Both the doctor and Panda looked up.
+Nanda's voice rasps out, sudden and hoarse:
 
-Panda forced a quick smile and stepped in. “It’s alright, Nanda. Relax. Just let me talk to the doctor for a sec, okay?”
+"Exactly. That’s what I’ve been saying... Those bruises. That blood. I saw them—before."
 
-His voice was calm, but his eyes flicked—something unreadable flashing across his face. That polite unease people wear when things begin slipping from their grasp.
+Both the doctor and Panda look up.
 
-The doctor cleared his throat and continued, slightly lower, but still within reach.
+Panda forces a quick smile and steps in. "It’s alright, Nanda. Relax. Just let me talk to the doctor for a sec, okay?"
 
-“…a severe blow to the occipital bone. The swelling’s controlled for now, but honestly—it’s a miracle he survived. What he needs now is rest. A great deal of it.”
+His voice is calm, but his eyes flick—something unreadable flashing across his face. That polite unease people wear when things begin slipping from their grasp.
 
-Nanda didn’t respond. His gaze wandered—past the IV, the crisp sheets, the sterile instruments on cold trays.
+The doctor clears his throat and continues, slightly lower, but still within reach.
 
-As the doctor departs upon handling the prescription to Panda......
+"...a severe blow to the occipital bone. The swelling’s controlled for now, but honestly—it’s a miracle he survived. What he needs now is rest. A great deal of it."
 
-“Panda…” he croaked. “The dream—I saw it before it happened. All of it. The man, the scar. Everything.”
-Panda stilled. A twitch of unease flickered across his face, but he masked it too fast.
+Nanda doesn’t respond. His gaze wanders—past the IV, the crisp sheets, the sterile instruments on cold trays.
 
-“Dreams mess with you, bro,” he said, light, but the cracks showed. “Trauma, adrenaline—it rewires things. Makes memories weird.”
+The doctor hands Panda a prescription and quietly exits.
 
-“No,” Nanda insisted, sharper now. “No… I’m telling you. The bruises, the fall, the man I saw. It was all in my dream… before it happened.”
-Panda hesitated. He rubbed the back of his neck, exhaled. “Coincidence, man. Our brains are wired to find patterns. You’ll feel different tomorrow.”
+"Panda..." he croaks. "The dream—I saw it before it happened. All of it. The man, the scar. Everything."
 
-But Nanda knew he wouldn’t.
+Panda stills. A twitch of unease flickers across his face, but he masks it too fast.
 
-He sank deeper into the pillow, staring at the ceiling. The fan above spun with mechanical indifference. 
-His thoughts refused to stay in order. They looped, twisted, frayed like the edges of burnt paper.
+"Dreams mess with you, bro," he says lightly, but the cracks show. "Trauma, adrenaline—it rewires things. Makes memories weird."
 
-He closed his eyes and tried to find the thread again. The attacker. That look. That faint crescent etched into skin like a memory left to rot.
+"No," Nanda insists, sharper now. "No... I’m telling you. The bruises, the fall, the man I saw. It was all in my dream... before it happened."
 
-He’d seen it. Not in the dream. Somewhere else. Somewhere real.
+Panda hesitates. He rubs the back of his neck, exhales. "Coincidence, man. Our brains are wired to find patterns. You’ll feel different tomorrow."
 
-A knock interrupted him.
+But Nanda knows he won’t.
 
-An elder leaned in through the door, kind-eyed, voice soft. “You’re lucky, son. That kind of blow… could’ve been much worse.”
+He sinks deeper into the pillow, staring at the ceiling. The fan above spins with mechanical indifference.
 
-Nanda nodded stiffly. “Did anyone see who did it?”
+His thoughts refuse to stay in order. They loop, twist, fray like the edges of burnt paper.
 
-The man shook his head. “Only shadows. He vanished before anyone could reach.”
+He closes his eyes and tries to find the thread again. The attacker. That look. That faint crescent etched into skin like a memory left to rot.
+
+He’s seen it. Not in the dream. Somewhere else. Somewhere real.
+
+A knock interrupts him.
+
+An elder leans in through the door, kind-eyed, voice soft. "You’re lucky, son. That kind of blow\... could’ve been much worse."
+
+Nanda nods stiffly. "Did anyone see who did it?"
+
+The man shakes his head. "Only shadows. He vanished before anyone could reach."
 
 Like smoke. Like a warning that was never meant to be understood.
 
-The door closed, and silence wrapped around him like a sheet.
+The door closes, and silence wraps around him like a sheet.
 
-Nanda turned to the window. His own reflection stared back at him—drained, hollow, almost fading at the edges.
+Nanda turns to the window. His own reflection stares back at him—drained, hollow, almost fading at the edges.
 
-Something had shifted.
+Something has shifted.
 
-This wasn’t a dream echoing into life.
+This isn’t a dream echoing into life.
 
-It was something waking up inside it.
+It’s something waking up inside it.
 
 Something ancient. Something watching.
 
-And for the first time, he wondered if he had ever been awake to begin with.
+And for the first time, he wonders if he has ever been awake to begin with.
+
 Not miles this time.
+
 But something darker.
+
 Something waiting before he sleeps.
+
+
 `
     },
     {

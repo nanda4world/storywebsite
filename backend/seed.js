@@ -117,7 +117,13 @@ He staggers to the sink, washes his face, and leans heavily against the basin, h
 
 The radio crackles to life—just for a moment—and a voice, low and commanding, cuts through the silence:
 
-“It’s only after we’ve lost everything that we’re free to do anything.”
+“We're the middle children of the history man!!
+
+No purpose in place, We have no great war, no great depression,
+
+Our great war is a spiritual war,
+
+our great depression is our lives.”
 
 Then, as suddenly as it came, it fades again—leaving only the quiet behind.
 

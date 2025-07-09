@@ -116,9 +116,9 @@ Only the dream remained—raw, vivid, disturbingly intact.
 
 He staggered to the sink, washed his face, and leaned heavily against the basin, hoping the cold water would wake him from something he wasn’t sure he’d left behind.
 
-The radio crackled to life—just for a moment—and Chaganti Koteswara Rao garu’s voice cut through the silence:
+The radio crackled to life—just for a moment—and a voice, low and commanding, cut through the silence:
 
-"...thellavarujhamuna nalugu gantalaki levaalani alarm pettukuni, moodu gantalu chaduvudaam anukuntadu..."
+“It’s only after we’ve lost everything that we’re free to do anything.”
 
 Then, as suddenly as it came, it faded again—leaving only the quiet behind.
 

@@ -35,7 +35,7 @@ router.get('/:slug/chapter/:number', async (req, res) => {
 
     if (!chapter) return res.status(404).json({ error: 'Chapter not found' });
     
-    res.json({ storyTitle: story.title, ...chapter.toObject() });
+    res.json({ storyTitle: story.title,storyOrder:story.order, ...chapter.toObject() });
   } catch (err) {
     console.error('Error fetching chapter:', err); 
     res.status(500).json({ error: 'Failed to fetch chapter' });

@@ -11,6 +11,7 @@ type Chapter = {
   title: string;
   content: string;
   number: number;
+  storyOrder?:number;
 };
 
 const API_BASE = import.meta.env.VITE_API_BASE || 'https://storywebsite-1.onrender.com/api/stories';
@@ -211,8 +212,9 @@ const FontControls = styled.div`
 export default function ChapterPage() {
   const { slug, chapterNumber } = useParams();
   const chapterNum = Number(chapterNumber);
-
+  
   const [chapter, setChapter] = useState<Chapter | null>(null);
+  
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [isScrolled, setIsScrolled] = useState(false);
@@ -263,8 +265,12 @@ export default function ChapterPage() {
   const paragraphs = chapter?.content?.trim().split('\n').filter(Boolean) || [];
   const prev = chapterNum > 1 ? chapterNum - 1 : null;
   const next = chapterNum < TOTAL_CHAPTERS ? chapterNum + 1 : null;
-  const chapterImage = `/images/chapters/chapter${chapterNum}.jpg`;
+  const storyNum = chapter?.storyOrder;
+const chapterImage = storyNum
+  ? `/images/chapters/story${storyNum}/chapter${chapterNum}.jpg`
+  : '';
 
+  console.log('Image path:',chapterImage);
   if (loading) {
     return (
       <ChapterWrapper>
@@ -286,8 +292,14 @@ export default function ChapterPage() {
       <ProgressBar progress={progress} />
 
       <ChapterLogo to={`/books/${slug}`} $isScrolled={isScrolled}>
-        <img src={chapterImage} alt={`Chapter ${chapterNum} cover`} />
-      </ChapterLogo>
+  {chapter?.storyOrder ? (
+    <img
+      src={`/images/chapters/story${chapter.storyOrder}/chapter${chapterNum}.jpg`}
+      alt={`Chapter ${chapterNum} cover`}
+    />
+  ) : null}
+</ChapterLogo>
+
 
       <ChapterWrapper>
         <ChapterContainer ref={contentRef}>

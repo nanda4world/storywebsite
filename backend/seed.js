@@ -18,7 +18,7 @@ const sampleStory = [{
     {
       number: 1,
       title: "The Awakening",
-      image: "/images/chapters/chapter1.jpg",
+      image: "/images/chapters/story1/chapter1.jpg",
       content: `
        "But I have promises to keep, 
        and miles to go before I sleep."
@@ -283,7 +283,7 @@ Something waiting before he sleeps.
     {
       number: 2,
       title: "The Man Outside",
-      image: "/images/chapters/chapter2.jpg",
+      image: "/images/chapters/story1/chapter2.jpg",
       content: `The hospital room hummed with the quiet unease of early morning. Faint sunlight bled through the blinds, striping Nanda’s blanket in gold and shadow. The steady beeping of the monitor was the only rhythm in the silence.
 Nanda stared at the ceiling, unmoving. Not asleep, not awake—caught in a strange in-between. Panda sat nearby, scrolling through his phone, occasionally glancing over like a man watching a fire that hasn’t gone out yet.
 A nurse entered, her footsteps soft. She adjusted his drip, noted something on the chart, and left without a word. Nanda watched her go.
@@ -369,7 +369,7 @@ Nanda was gone.`
     {
       number: 3,
       title: "The Discharge",
-      image: "/images/chapters/chapter3.jpg",
+      image: "/images/chapters/story1/chapter3.jpg",
        content: `The air outside the hospital ward was thick with the smell of antiseptic and wilting bougainvillea from the garden. Somewhere nearby, a wheelchair creaked faintly. Nanda stood barefoot on the dew-touched lawn, shivering slightly under his hospital gown, eyes scanning the street beyond the fence.
 The figure was gone. Again. Just like that.
 He didn’t know why he was out there — only that he had to look. Had to make sure he wasn’t losing it.
@@ -485,7 +485,7 @@ But the boy just looked at him, eyes wide and deadpan, and said:
     {
       number: 4,
       title: "The Familiar Stranger",
-      image: "/images/chapters/chapter4.jpg",
+      image: "/images/chapters/story1/chapter4.jpg",
       content: `The dream continues…
 Nanda is already inside the corridor — metallic, humming, endless.
 Cold fluorescent lights flicker above. The air is sterile, heavy with chemicals and something older… like decay buried under metal. Every door he passes is sealed, numbered in red:
@@ -673,7 +673,7 @@ So, now he plans to go back to work………`,
     {
       number: 5,
       title: "The Revelation",
-      image: "/images/chapters/chapter5.jpg",
+      image: "/images/chapters/story1/chapter5.jpg",
       content:`The office building hadn’t changed. The same cracked tile near the elevator. The same overused coffee machine hissing steam in the hallway. But to Nanda, it all felt… staged. Like a set someone had reassembled just enough to fool him into thinking life was normal.
 He walked past the reception. A few employees looked up — then immediately looked away. Except one.
  “Hey, look who’s back,” a guy from analytics muttered, nudging his colleague.
@@ -1092,7 +1092,7 @@ With the kind of ache that only the sky could understand.`,
     {
       number: 1,
       title: "The Weight of Love",
-      image: "/images/chapters/copy1.jpg",
+      image: "/images/chapters/story2/chapter1.jpg",
       content: `"If thou must love me, let it be for nought
 Except for love’s sake only. Do not say
 ‘I love her for her smile — her look — her way
@@ -1221,7 +1221,7 @@ He storms out. She follows. At the door, she whispers, “My band… daddd…”
     {
       number: 2,
       title: "Just You, Me, and Us",
-      image: "/images/chapters/copy2.jpg",
+      image: "/images/chapters/story2/chapter2.jpg",
       content:`The toy store’s windows gleam with fresh glass and new dreams. As they walk past, Ritwika slows down, her eyes catching the colorful blur of the display. 
 But Vijay doesn’t notice. He walks faster than usual — jaw tight, eyes fixed on his phone screen. A freshly posted picture from his ex stares back at him.
 "The best day one could have… after leaving the boring things behind."
@@ -1473,12 +1473,12 @@ Just… peace.
     {
       number: 3,
       title: "The Discharge",
-      image: "/images/chapters/copy3.jpg"
+      image: "/images/chapters/story2/chapter3.jpg"
     },
     {
       number: 4,
       title: "The Familiar Stranger",
-      image: "/images/chapters/girl1.jpg"
+      image: "/images/chapters/story2/chapter4.jpg"
     }
   ]
 },

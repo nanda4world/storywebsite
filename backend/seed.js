@@ -1472,6 +1472,7 @@ And then, slowly, the grief gives way to something gentler.
 He brushes a hand through her hair.
 “She’s gone,” he says softly. “But you’re here.”
 His chest rises. Falls.
+<<<<<<< HEAD
 “Maybe… maybe you’re right my sweetheart.” and he kisses her on the forehead.`
     },
     {
@@ -1479,6 +1480,10 @@ His chest rises. Falls.
       title: "The Discharge",
       image: "/images/chapters/story2/chapter3.jpg",
       content: `Morning it is....
+=======
+“Maybe… maybe you’re right my sweetheart.” and he kisses her on the forehead
+Morning it is....
+>>>>>>> 077b2ade6c1fcc3b37e8e52caf4b4edb1abdf708
 The sky is still pale.
 The kind of light that makes everything look softer, quieter.
 Vijay moves through the house like a whisper.
@@ -1541,7 +1546,18 @@ Before he can say anything, Darshan leans out the window and screams:
 Ritwika’s eyes go wide.
 Vijay exhales, finally smiling.
 Not a performative smile. Not a protective one.
+<<<<<<< HEAD
 Just… peace.`
+=======
+Just… peace.
+
+`
+    },
+    {
+      number: 3,
+      title: "The Discharge",
+      image: "/images/chapters/story2/chapter3.jpg"
+>>>>>>> 077b2ade6c1fcc3b37e8e52caf4b4edb1abdf708
     },
     {
       number: 4,

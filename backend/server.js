@@ -15,6 +15,9 @@ app.use(express.json());
 
 // Routes
 app.use('/api/stories', storyRoutes);
+app.get("/health", (req, res) => {
+  res.status(200).json({ status: "UP" });
+});
 
 // Connect DB and Start Server
 mongoose

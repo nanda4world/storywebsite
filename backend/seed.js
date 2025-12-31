@@ -18,7 +18,7 @@ const sampleStory = [{
     {
       number: 1,
       title: "The Awakening",
-      image: "/images/chapters/chapter1.jpg",
+      image: "/images/chapters/story1/chapter1.jpg",
       content: `
        "But I have promises to keep, 
        and miles to go before I sleep."
@@ -283,7 +283,7 @@ Something waiting before he sleeps.
     {
       number: 2,
       title: "The Man Outside",
-      image: "/images/chapters/chapter2.jpg",
+      image: "/images/chapters/story1/chapter2.jpg",
       content: `The hospital room hummed with the quiet unease of early morning. Faint sunlight bled through the blinds, striping Nanda’s blanket in gold and shadow. The steady beeping of the monitor was the only rhythm in the silence.
 Nanda stared at the ceiling, unmoving. Not asleep, not awake—caught in a strange in-between. Panda sat nearby, scrolling through his phone, occasionally glancing over like a man watching a fire that hasn’t gone out yet.
 A nurse entered, her footsteps soft. She adjusted his drip, noted something on the chart, and left without a word. Nanda watched her go.
@@ -369,7 +369,7 @@ Nanda was gone.`
     {
       number: 3,
       title: "The Discharge",
-      image: "/images/chapters/chapter3.jpg",
+      image: "/images/chapters/story1/chapter3.jpg",
        content: `The air outside the hospital ward was thick with the smell of antiseptic and wilting bougainvillea from the garden. Somewhere nearby, a wheelchair creaked faintly. Nanda stood barefoot on the dew-touched lawn, shivering slightly under his hospital gown, eyes scanning the street beyond the fence.
 The figure was gone. Again. Just like that.
 He didn’t know why he was out there — only that he had to look. Had to make sure he wasn’t losing it.
@@ -485,7 +485,7 @@ But the boy just looked at him, eyes wide and deadpan, and said:
     {
       number: 4,
       title: "The Familiar Stranger",
-      image: "/images/chapters/chapter4.jpg",
+      image: "/images/chapters/story1/chapter4.jpg",
       content: `The dream continues…
 Nanda is already inside the corridor — metallic, humming, endless.
 Cold fluorescent lights flicker above. The air is sterile, heavy with chemicals and something older… like decay buried under metal. Every door he passes is sealed, numbered in red:
@@ -673,7 +673,7 @@ So, now he plans to go back to work………`,
     {
       number: 5,
       title: "The Revelation",
-      image: "/images/chapters/chapter5.jpg",
+      image: "/images/chapters/story1/chapter5.jpg",
       content:`The office building hadn’t changed. The same cracked tile near the elevator. The same overused coffee machine hissing steam in the hallway. But to Nanda, it all felt… staged. Like a set someone had reassembled just enough to fool him into thinking life was normal.
 He walked past the reception. A few employees looked up — then immediately looked away. Except one.
  “Hey, look who’s back,” a guy from analytics muttered, nudging his colleague.
@@ -1092,136 +1092,206 @@ With the kind of ache that only the sky could understand.`,
     {
       number: 1,
       title: "The Weight of Love",
-      image: "/images/chapters/copy1.jpg",
-      content: `"If thou must love me, let it be for nought
+      image: "/images/chapters/story2/chapter1.jpg",
+      content: `"IF thou must love me, let it be for nought
+
 Except for love’s sake only. Do not say
+
 ‘I love her for her smile — her look — her way
+
 Of speaking gently…’"
-The girl reads aloud slowly, her tiny voice curling around the old words, like she’s trying to understand their weight even as she speaks them. She’s perched on 
-the living room couch, her feet dangling just above the floor, one polished shoe in her lap, the other still in her hand. A small cloth tucked between
- her fingers shines her father’s shoes with the solemnity of a ritual.
-Across the room, Vijay stirs his oatmeal absently, half-listening, half-drifting in his thoughts. The morning sun filters through the curtain lace, 
-laying soft patterns on the tiled floor. The hum of the ceiling fan, the distant whir of a street vendor’s bell — all of it folds neatly into the quiet rhythm of their little world.
+
+The girl reads aloud slowly, her tiny voice curling around the old words, like she’s trying to understand their weight even as she speaks them. She’s perched on the living room couch, her feet dangling just above the floor, one polished shoe in her lap, the other still in her hand. A small cloth tucked between her fingers shines her father’s shoes with the solemnity of a ritual.
+
+Across the room, Vijay stirs his oatmeal absently, half-listening, half-drifting in his thoughts. The morning sun filters through the curtain lace, laying soft patterns on the tiled floor. The hum of the ceiling fan, the distant whir of a street vendor’s bell — all of it folds neatly into the quiet rhythm of their little world.
+
 He swallows the last spoonful and raises his voice just enough.
+
 “Hey dearrr…” he calls out, stretching the word with affection, “you ready? It’s time. We have to leave…”
-Ritwika doesn’t lift her head immediately. 
-She is too engrossed in what she’s doing — polishing her father’s black leather shoes with a gentle rhythm, 
-her small fingers swiping the cloth with practiced care. When she finally looks up, there’s a spark in her eyes and the proudest smile dancing across her face.
-“I was ready even before you, Dad,” she declares with exaggerated sass. 
-“You’re the one who still hasn’t put your shoes on!”
-Vijay pauses, caught mid-chew. “Wowww,” Vijay grinned and raises his eyebrows in amused surrender and chuckles, 
-setting the bowl aside on the counter. 
- “Okay, okay, boss. I surrender.”
-Slipping the bag over his shoulder, he strides over, takes the shoes from her lap, and sinks onto the couch. 
-He throws a quick glance at her — that usual blend of pride and quiet awe that always sneaks into his face when he looks at her.
-and bends down to kiss Ritwika’s forehead. She holds out her hand, still seated — he takes it — and with one excited hop, she jumps off the couch to join him.
-Her baby-blue gown bounces around her ankles as she walks beside him, struggling to match his pace, though her legs kept hopping rather than stepping. 
-Her bob-cut hair was tied into two short plaits, one fastened with a red rubber band, the other with a pink one. 
-A small maroon bindi sat perfectly centered on her forehead — proudly placed by herself that morning as Her white sneakers squeaked with each jump.
+
+Ritwika doesn’t lift her head immediately. She is too engrossed in what she’s doing — polishing her father’s black leather shoes with a gentle rhythm, her small fingers swiping the cloth with practiced care. When she finally looks up, there’s a spark in her eyes and the proudest smile dancing across her face.
+
+“I was ready even before you, Dad,” she declares with exaggerated sass. “You’re the one who still hasn’t put your shoes on!”
+
+Vijay pauses, caught mid-chew. “Wowww,” he grins, raising his eyebrows in amused surrender and chuckles, setting the bowl aside on the counter.
+
+“Okay, okay, boss. I surrender.”
+
+Slipping the bag over his shoulder, he strides over, takes the shoes from her lap, and sinks onto the couch. He throws a quick glance at her — that usual blend of pride and quiet awe that always sneaks into his face when he looks at her — and bends down to kiss Ritwika’s forehead. She holds out her hand, still seated — he takes it — and with one excited hop, she jumps off the couch to join him.
+
+Her baby-blue gown bounces around her ankles as she walks beside him, struggling to match his pace, though her legs kept hopping rather than stepping. Her bob-cut hair was tied into two short plaits, one fastened with a red rubber band, the other with a pink one. A small maroon bindi sat perfectly centered on her forehead — proudly placed by herself that morning. Her white sneakers squeaked with each jump.
+
 “Ritsssshhh, come on now, easy… you’ll twist an ankle.”
-Her feet patter alongside his, but with every second step she takes a small leap just to keep pace. 
-At six feet tall, Vijay towers next to her. She doesn’t mind. Their rhythm is unspoken. It has always been this way.
+
+Her feet patter alongside his, but with every second step she takes a small leap just to keep pace. At six feet tall, Vijay towers next to her. She doesn’t mind. Their rhythm is unspoken. It has always been this way.
+
 “Dadddd…” she begins, her voice bouncing like her steps, “Why don’t we go to office on a bike?”
+
 Vijay glances down. “It’s close enough to walk. Walking’s good for the health, you know.”
-“But still… I see other people going on bikes or cars. We’re the only ones walking. 
-I mean… it’s fine. I like walking with you.” She flashes a quick grin.
+
+“But still… I see other people going on bikes or cars. We’re the only ones walking. I mean… it’s fine. I like walking with you.” She flashes a quick grin.
+
 Before Vijay can respond, she shifts gears again.
+
 “Also, daadddd… why don’t you shave your beard?” She squints. “There are so many women staring at you. I think you look better without it.”
+
 She giggled and looked away, as if her joke was too powerful to see delivered.
-He doesn’t answer immediately. As they pass by the glass doors of a mall, his reflection catches his eye. 
-His hair is neatly combed. Square glasses hide the deep circles under his eyes. The beard — thick, fully grown — masks the tired jawline. 
-A scar, faint but present, stretches across the upper part of his forehead, evidence of an old injury. He’s dressed simply — a dark blue collarless shirt, 
-layered over a dull gray t-shirt beneath.
-Meanwhile, Ritwika’s chatter continues. She tugs his hand and pulls him toward the mall.
-Inside, her eyes land on a toy in the display. “Daddddd! This is the one we were talking about last night! The remote car, remember? You said it’s your favorite!”
+
+He doesn’t answer immediately. As they pass by the glass doors of a mall, his reflection catches his eye. His hair is neatly combed. Square glasses hide the deep circles under his eyes. The beard — thick, fully grown — masks the tired jawline. A scar, faint but present, stretches across the upper part of his forehead, evidence of an old injury. He’s dressed simply — a dark blue collarless shirt, layered over a dull gray t-shirt beneath.
+
+Meanwhile, Ritwika’s chatter continues. She tugs his hand and pulls him toward the mall. Inside, her eyes land on a toy in the display.
+
+“Daddddd! This is the one we were talking about last night! The remote car, remember? You said it’s your favorite!”
+
 Vijay smiled softly and shook his head.
+
 “On our way back, sweetheart. I promise.”
+
 “You sure? Pinky promise?”
-He slipped off his glasses, knelt down to her level, and looked her straight in the eye.“For sure, my dear. Cross my heart.”
-He kneels down to her level, removes his glasses, and meets her eyes. “For sure, my dear Rittsssssshhhh”, blinks his eyes and they do their signature with their fists..
+
+He slipped off his glasses, knelt down to her level, and looked her straight in the eye. “For sure, my dear. Cross my heart.”
+
+They do their signature with their fists.
+
 Moments later, she’s sitting on the edge of the reception table inside the mall while he reties the laces of her sneaker.
+
 “Two knots,” he says, securing it tightly.
+
 “But I’m used to one knot, Dadd…”
-He doesn’t argue. He just pats her foot gently, then helps her down. They walk together past colorful store fronts, but she doesn’t ask for anything. 
-Not a single thing. She’s already excited about the toy promised later.
-They pass by the candy aisle. Vijay picks up her favorite chocolate without a word. She beams as he hands it to her and tears it open immediately.
+
+He doesn’t argue. He just pats her foot gently, then helps her down. They walk together past colorful store fronts, but she doesn’t ask for anything. Not a single thing. She’s already excited about the toy promised later.
+They pass by the candy aisle. Vijay picks up her favorite chocolate without a word — same one he buys every Thursday. The cashier just nods. He always gets just one.. She beams as he hands it to her and tears it open immediately.
+
 “Heyyy… why don’t you save it for the office?” he teases.
+
 “No use. I’ll be eating it alone there anyway. This tall 6-foot guy I’m with doesn’t even touch chocolate! He only eats oatmeal and sprouts.”
+
 He laughs and pulls out tissues from his bag preemptively. Sure enough, she extends the wrapper for him to hold.
+
 As they exit the mall, she asks, “Daddd, why don’t we get a newspaper at home anymore?”
+
 He sighs lightly. “Everything’s on the tablet now. Easier to read there.”
-They walk for a few moments in companionable silence. Then she pulls his hand — first gently, then with urgency.
-He thinks she’s trying to find a dustbin. “Wait, sweetheart. Let’s throw it at the office—”
+
+They walk for a few moments in companionable silence. Then she pulls his hand — first gently, then with urgency. He thinks she’s trying to find a dustbin. “Wait, sweetheart. Let’s throw it at the office—”
+
 But she interrupts him with a firmer tug.
-She’s staring at a cricket bat displayed outside a sports store. A clean English willow. The one he had looked at last week with longing in his eyes. 
-The brand, the grip, the curve — everything speaks to the cricketer that still breathes quietly in him.
+
+She’s staring at a cricket bat displayed outside a sports store. A clean English willow. The one he had looked at last week with longing in his eyes.
+
 “That’s the one, right?” she asks in a soft, reverent tone.
+
 He nods, almost imperceptibly.
+
 “Then why don’t you buy it?” she presses.
+
 He doesn’t answer. His eyes are still locked on the bat, filled with memories of strokes, nets, and dreams.
+
 She tugs again. “Dad… you love it, right? Why won’t you bring home what you love?”
+
 He straightens. “Come on. Let’s go.”
+
 As they near the office building, her hand slips from his. Her tone is quieter now.
-“This is what you do, Dad. You don’t keep the things you love more than yourself… I won’t be surprised if one day you leave me too.”
-He stops. Just for a second. Looks down at her. His face unreadable.
+
+“This is what you do, Dad. You don’t keep the things that you love more than yourself… " and silently murmurs within her, "I won’t be surprised if one day you leave me too.”
+
+He stops. Just for a second. Looks down. His face unreadable.
+
 Then, silently, he holds out his hand. She stares at the ground, lips pressed tight, then slowly takes it.
-Inside, she greets the receptionist — too short to be seen behind the desk, but confident in her wave. Vijay remains quiet. Still in that space between the bat and her words.
+
+As they resume their walk, she waves cheerfully at the receptionist, standing on tiptoe — but the woman behind the desk doesn’t wave back. Doesn’t even glance. Maybe Ritwika’s too short to be seen behind the desk, but confident in her wave.&#x20;
+
+Vijay watches, lips pressed thin, saying nothing.
+
 They step into the elevator. She stretches to press the button, but he’s already hit 9. She lowers her hand, understanding.
-At his cabin, Vijay places his bag down and tries to let go of her hand. But she doesn’t.
-She just holds on tighter.
+
+Vijay had requested a separate cabin months ago. Said it helped him focus better. Truth was — he needed the space to breathe. To exist in peace with her.
+
+At his cabin, Vijay places his bag down and tries to let go of her hand. But she doesn’t. She just holds on tighter.
+
 Vijay stares at the desk, not saying a word. Ritwika tilts her head, studying him carefully, then says softly, "I’m sorry, Dad."
+
 Vijay, feeling the sting of guilt for his earlier gruffness, sighs and lifts her up, placing her gently on the desk.
-He comes closer, lowers his voice, and says, "Look dear… whatever we wish to have in our life, we have to earn it. If we think we don’t deserve it,
- we must leave it — irrespective of the immense love we have towards it. But I… I will not leave you at any cost. Got it?"
+
+He comes closer, lowers his voice, and says, "Look dear… whatever we wish to have in our life, we have to earn it. If we think we don’t deserve it, we must leave — irrespective of the immense love we have towards it. But I… I will not leave you at any cost. Got it?"
+
 Ritwika stares at him, shocked, then suddenly throws her arms around him and hugs him tightly. "I’m sorrry daadddd… I shouldn’t have said that…"
+
 Vijay wipes away the tears that have gathered in his eyes with the tissue Ritwika was holding. As they return to their routines, she glances up and asks, "Why did you cry, Dad?"
+
 He feigns ignorance. "When?"
+
 "Just now."
+
 He raises an eyebrow. "How do you know?"
-"The chocolate is all around your eyes," she says with a cheeky grin.Vijay chuckles. "Look dear… today I have a very important call. A very tough task to handle. 
-Please do not disturb me. If you feel hungry, 
-eat the remaining chocolate. In the afternoon, have your vegetable mix meal from the box I packed this morning…"
+
+"The chocolate is all around your eyes," she says with a cheeky grin. Vijay chuckles.
+
+"Look dear… today I have a very important call. A very tough task to handle. Please do not disturb me. If you feel hungry, eat the remaining chocolate. In the afternoon, have your vegetable mix meal from the box I packed this morning…"
+
 Before he can finish, she interrupts, mimicking his tone, "And if thirsty, take the bottle and drink. If sleepy, lay down on the table nearby. And do not disturb me!"
+
 Vijay giggles, shaking his head, and gets back to work.
-As the day unfolds, post-lunch, she starts pricking him, “Dad… you haven’t had your lunch yet… have it… eat and work…” He brushes her off gently, murmuring he’ll eat later. 
-Eventually, she dozes off. But her sleep is uneasy. Half an hour in, she stirs with soft hiccups, muttering in her sleep, “I miss you mom… I want to talk with you… 
-why did you leave us… please come back…”
-Vijay hears her. Throws off the headphones and rushes over. He hands her the water bottle and helps her sit up, gently making her drink. She gasps, 
-then suddenly breaks into sobs — loud, unfiltered. He holds her close. “It’s okay dear… calm down… Papa has a lot of work to do… an important call soon… please, just stay calm…”
+
+As the day unfolds, post-lunch, she starts pricking him, “Dad… you haven’t had your lunch yet… have it… eat and work…” He brushes her off gently, murmuring he’ll eat later.
+
+Eventually, she dozes off. But her sleep is uneasy. Half an hour in, she stirs with soft hiccups, muttering in her sleep, “I......I miss you mom… I want to talk with you… why did you leave us… please come back…...”
+
+Vijay hears her. Throws off the headphones and rushes over. He hands her the water bottle and helps her sit up, gently making her drink. She gasps, then suddenly breaks into sobs — loud, unfiltered. He holds her close.
+
+“It’s okay dear… calm down… Papa has a lot of work to do… an important call soon… please, just stay calm…”
+
 But her sobs don’t fade. Her kajal streaks down her pale cheeks, and her small body trembles. Vijay realizes this won’t work — he grabs the lunch wrap and takes her out for a walk.
-They settle on a bench near the office ground. One side: adults playing, laughing. On the other: dogs and puppies chasing squirrels. Slowly, Ritwika’s cries fade. She claps. Giggles. 
-The sparkle returns.
+
+They settle on a bench near the office ground. One side: adults playing, laughing. On the other: dogs and puppies chasing squirrels. Slowly, Ritwika’s cries fade. She claps. Giggles. The sparkle returns.
+
 Vijay finishes the wrap. “Shall we go back now?” he asks.
-She nods, grabs his hand, hopping slightly. Her plaits bounce as they head inside. Back at the cabin, he adjusts the AC and turns toward his desk—then freezes. His laptop is off. 
-Charger disconnected. Everything unsaved.
+
+She nods, grabs his hand, hopping slightly. Her plaits bounce as they head inside. Back at the cabin, he adjusts the AC and turns toward his desk—then freezes. His laptop is off. Charger disconnected. Everything unsaved.
+
 He doesn't speak. Just rushes, plugs in, powers it back. Files are gone. Panic rises. His important evening call is in an hour.
-He begins reworking — typing furiously. Meanwhile, Ritwika plays, “Vrooom vroooommm!Heyyy sshhh sshhh moveee....can't you see our coming in? look... My dad’s a hero! he can 
-hit youu with his fist......Ppeeeep pppeeeppp!”
+
+He begins reworking — typing furiously. Meanwhile, Ritwika plays, “Vrooom vroooommm! Heyyy sshhh sshhh moveee....can't you see our coming in? Look... My dad’s a hero! he can hit youu with his fist......Ppeeeep pppeeeppp!”
+
 Then the call alert chimes.
+
 Vijay slaps his forehead, pushes his hair back, adjusts his glasses, and answers. “Hi Dinesh! Good evening…” Voice trembles.
-Ritwika stays quiet. She knows what this call means. She whispers to her teddy, “You know… I’m going to get a remote car tonight… 
-I’m not going to play with you anymore… pppccchhh…” then giggles. “Don’t worry. I’ll let you try it too.”
+
+Ritwika stays quiet. She knows what this call means. She whispers to her teddy, “You know… I’m going to get a remote car tonight… I’m not going to play with you anymore… pppccchhh…” then giggles. “Don’t worry. I’ll let you try it too.”
+
 She munches the rest of her chocolate, saving one last piece. She wraps it neatly, just as —
+
 THUD.
+
 The laptop slams shut. Vijay bangs it in frustration.
+
 Ritwika walks over. “What happened, Dad?”
+
 He doesn’t reply. Pulls his shirt collar. She touches his arm. “Whhatt happ…”
+
 He explodes. “Can’t you stay calm for a DAY? One day??”
-She backs up, startled. He yells again. “You want to know what happened? It’s GONE. IT ISSS GONE! Your mom — she’s not coming back. 
-She doesn’t like me, neither YOU. You saw what happened. Didn’t I tell you she’s not coming? Why do you keep doing this? You annoying kid. Look at your face!”
-Stunned, Ritwika stares. Kajal traces still on her cheeks. Dried tears, stains of dirt smudges on her cheeks. She scratches her head at the red band plat. With her round browny eyes 
-shining with filled tears “What have I done… daddd…” “What have I done… daddd…”
+
+She backs up, startled. He yells again. “You want to know what happened? It’s GONE. IT ISSS GONE! Your mom — she’s not coming back. She doesn’t like me, neither YOU. You saw what happened. Didn’t I tell you she’s not coming? Why do you keep doing this? You annoying kid. Look at your face!”
+
+Stunned, Ritwika stares. Kajal traces still on her cheeks. Dried tears, stains of dirt smudges on her cheeks. She scratches her head at the red band plait. With her round browny eyes shining with filled tears “What have I done… daddd…” “What have I done… daddd…”
+
 He rages. “Stay CALM. Don’t TALK. You’re a TORTURE.”
-She stands still. Her hair falls unevenly — the band lost. He packs in anger. The mouse drops — she picks it up. When he grabs it, her finger gets pinched. 
-She winces, puts the finger in her mouth.
+
+She stands still. Her hair falls unevenly — the band lost. He packs in anger  ,moving fast, furious..;
+
+The mouse slips from his hand — she picks it up and fetches it to him with quite a fear.;
+
+As he snatches it, her finger gets pinched. She winces, puts the finger in her mouth.
+
 He yells, “How many times should I tell you NOT to put your dirty hands in your mouth! Such nonsense!”
+
 He storms out. She follows. At the door, she whispers, “My band… daddd…” as tears fall quietly from one eye.
+
 `,
     },
     {
       number: 2,
       title: "Just You, Me, and Us",
-      image: "/images/chapters/copy2.jpg",
+      image: "/images/chapters/story2/chapter2.jpg",
       content:`The toy store’s windows gleam with fresh glass and new dreams. As they walk past, Ritwika slows down, her eyes catching the colorful blur of the display. 
 But Vijay doesn’t notice. He walks faster than usual — jaw tight, eyes fixed on his phone screen. A freshly posted picture from his ex stares back at him.
 "The best day one could have… after leaving the boring things behind."
@@ -1262,8 +1332,8 @@ He shakes his head quickly — too quickly.
 He struggles for words, then gently explains. About the day, the pressure, the message, the guilt.
 She listens. Not blinking.
 “I’m sorry, Daddd,” she whispers.
-He grabs her shoulders. “No. No, dear. I’m the one who should say sorry. I should never have spoken like that. You’re not annoying. Never. Not even once. 
-Your mom used to do the same thing — scream at me if I skipped lunch, lecture me if I didn’t sleep…”
+He grabs her shoulders. “No. No, dear. I’m the one who should be sorry. I should never have spoken like that. You’re not annoying. Never. Not even once. 
+Your mom always did the same thing — scream at me if I skipped lunch, lecture me if I didn’t sleep…”
 His voice catches.
 “Don’t ever think that again, dear. Not even in play. You are… everything my dearrrr Rittsssshhh.”
 Ritwika jumps into his arms and sobs loudly this time. Words tumble out, half-choked. “I didn’t do it on purpose, Dad. Mom came in my dream this afternoon… that’s why I cried.”
@@ -1302,7 +1372,7 @@ Vijay turns around, rinsing a bowl, and walks closer to her.
 She waves it off. “That was coincidence, Dad.”
 Vijay raises an eyebrow. “If it happens once or twice, it’s coincidence, Rittsssshhh. But—”
 “But the first time,” she interrupts, “I already had a cold.”
-“The second time,” Vijay continues, “you had severe cough from the pollution.”
+“The second time,” Vijay continues, “I had severe cough from the pollution.”, she shoots at his question----
 “The third time…” she hesitates, fumbles for words.
 “You went breathless,” he finishes.
 “And the fourth time?” she challenges.
@@ -1335,7 +1405,7 @@ Vijay exhales as he moves furniture. “The very next day after our fight, she s
 Darshan shakes his head, but before he can respond, Ritwika yells from the room:
 “He has me! I have him! And we have you, Uncle Darshan!”
 All three of them laugh.
-Later, Darshan pulls Vijay aside again. “Think about England, man. It’s time.”
+Later after a long time of play, Darshan pulls Vijay aside again. “Think about England, man. It’s time.”
 Vijay lifts Ritwika up so she can reach the top shelf. She grabs a small box and sprinkles food into the fish tank.
 He kisses her forehead. She giggles and rubs it off.
 “Dad, why don’t we go too?” she asks. “I saw that Instagram story. You’re not boring!”
@@ -1367,7 +1437,7 @@ His ex — laughing, riding on a bike, hand-in-hand with another man. The captio
 His smile fades.
 Ritwika notices. “It’s okay, Dad. I know you miss her. But she doesn’t miss you, does she? What’s the point?”
 Vijay pulls her close, smiling faintly.
-“Never say that, Rittsssshhh. She’s a great woman. You’re just like her.”
+“Never say that, Rittsssshhh. She’s a great woman. She always cared for us.. You’re just like her.”
 Ritwika pushes him away and shouts, “I will never leave you for my friends! I will prioritize you! It’s just you, me, and us! Don’t compare me with that lady!”
 She finally drifts off into sleep and the clock shows the time 3:15AM.....Vijay stares at that little smile of Ritwika for the rest of the night until he hears the wall clock chimes.
 It’s 4 AM.
@@ -1402,8 +1472,13 @@ And then, slowly, the grief gives way to something gentler.
 He brushes a hand through her hair.
 “She’s gone,” he says softly. “But you’re here.”
 His chest rises. Falls.
-“Maybe… maybe you’re right my sweetheart.” and he kisses her on the forehead
-Morning it is....
+“Maybe… maybe you’re right my sweetheart.” and he kisses her on the forehead.`
+    },
+    {
+      number: 3,
+      title: "The Discharge",
+      image: "/images/chapters/story2/chapter3.jpg",
+      content: `Morning it is....
 The sky is still pale.
 The kind of light that makes everything look softer, quieter.
 Vijay moves through the house like a whisper.
@@ -1466,19 +1541,12 @@ Before he can say anything, Darshan leans out the window and screams:
 Ritwika’s eyes go wide.
 Vijay exhales, finally smiling.
 Not a performative smile. Not a protective one.
-Just… peace.
-
-`
-    },
-    {
-      number: 3,
-      title: "The Discharge",
-      image: "/images/chapters/copy3.jpg"
+Just… peace.`
     },
     {
       number: 4,
       title: "The Familiar Stranger",
-      image: "/images/chapters/girl1.jpg"
+      image: "/images/chapters/story2/chapter4.jpg"
     }
   ]
 },
